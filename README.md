@@ -1,13 +1,15 @@
 # ibm_recommendation_engine
 Code for the "Recommendations with IBM" project of the Udacity Data Science Nanodegree course
 
+The task in this project is to build a recommendation engine for actual data from the IBM Watson Studio platform. The data contains several articles, their entire content as well as summaries and headlines. It also contains a set of users and data about which articles in the dataset they interacted with.
+
 In the notebook, a recommendation engine is implemented that uses collaborative filtering/user-user based recommendation methods as well as content-based recommendation methods for entirely new users. For the latter, recommendations are made based on popular "topics" in our articles, where for the topic modelling a hybrid approach is chosen based on Latend Dirichlet Allocation (LDA) and on keywords from a large language model (LLM), in our case GPT-3.
 
-The data used is based on real data from the IBM Watson Studio platform and contains several articles, their entire content as well as summaries and headlines. It also contains a set of users and data about which articles in the dataset they interacted with.
+The main code is contained within the `Recommendations_with_IBM.ipynb` jupyter notebook.
 
 # Recommended software stack
 
-The following `python` packages are required for running the main code, which is contained within the `Recommendations_with_IBM.ipynb` jupyter notebook:
+The following `python` packages are required for running the `Recommendations_with_IBM.ipynb` jupyter notebook:
 
 - pandas
 - numpy
