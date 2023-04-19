@@ -1,0 +1,7257 @@
+{
+    "0": [
+        "detect",
+        "bad",
+        "reading",
+        "real-time",
+        "python"
+    ],
+    "1": [
+        "data science",
+        "presenting work",
+        "communication",
+        "analyzing data",
+        "kaggle competition"
+    ],
+    "2": [
+        "week",
+        "",
+        "news",
+        "",
+        "data science",
+        "",
+        "big data",
+        "",
+        "april"
+    ],
+    "3": [
+        "distributed database",
+        "caching",
+        "performance",
+        "scalability",
+        "latency"
+    ],
+    "4": [
+        "video",
+        "demonstrates",
+        "power",
+        "ibm",
+        "data science"
+    ],
+    "5": [
+        "compose",
+        "database browsing",
+        "postgresql",
+        "dashboard",
+        "editing data"
+    ],
+    "6": [
+        "upgrading",
+        "postgresql",
+        "deployment",
+        "version",
+        "safely"
+    ],
+    "7": [
+        "data engineering",
+        "analytics engine",
+        "parquet format",
+        "schema evolution",
+        "compatibility issue"
+    ],
+    "8": [
+        "kaggle",
+        "data science",
+        "machine learning",
+        "competition",
+        "career building"
+    ],
+    "9": [
+        "gradient",
+        "data",
+        "security",
+        "unsupervised learning",
+        "apache spark"
+    ],
+    "10": [
+        "ios",
+        "offlinefirst",
+        "data persistence",
+        "cloudant sync",
+        "cdtdatastore"
+    ],
+    "11": [
+        "warehousing",
+        "data",
+        "cloudant",
+        "dashdb",
+        "geospatial"
+    ],
+    "12": [
+        "ibm",
+        "iot",
+        "jupyter notebook",
+        "apache spark",
+        "cloudant nosql"
+    ],
+    "13": [
+        "python",
+        "scala",
+        "jupyter notebooks",
+        "pixiedust",
+        "data science"
+    ],
+    "14": [
+        "market segmentation",
+        "us census data",
+        "jupyter notebooks",
+        "zip code data",
+        "urbanity analysis"
+    ],
+    "15": [
+        "structured streaming",
+        "machine learning",
+        "naive bayes",
+        "custom sink",
+        "apache spark"
+    ],
+    "16": [
+        "performance",
+        "supervised",
+        "predictive",
+        "model",
+        "logistic_regression"
+    ],
+    "17": [
+        "mysql",
+        "high availability",
+        "compose",
+        "innodb cluster",
+        "database"
+    ],
+    "18": [
+        "machine learning",
+        "datasets",
+        "open source",
+        "ai",
+        "startup growth"
+    ],
+    "19": [
+        "metrics",
+        "data scientist",
+        "mode",
+        "postgresql",
+        "database"
+    ],
+    "20": [
+        "rstudio",
+        "data science experience",
+        "ibm watson data platform",
+        "spark",
+        "notebook"
+    ],
+    "21": [
+        "- mapping",
+        "- data science",
+        "- pixiedust",
+        "- mapbox",
+        "- jupyter notebooks"
+    ],
+    "22": [
+        "importing",
+        "json",
+        "documents",
+        "nosqlimport",
+        "npm module"
+    ],
+    "23": [
+        "video",
+        "geospatial",
+        "cloudant",
+        "dashboard",
+        "tutorial"
+    ],
+    "24": [
+        "botkit",
+        "framework",
+        "chat",
+        "conversational interface",
+        "paradigm"
+    ],
+    "25": [
+        "want",
+        "learn",
+        "created",
+        "data science",
+        "experience"
+    ],
+    "26": [
+        "driving",
+        "traffic",
+        "parking",
+        "product",
+        "machine learning"
+    ],
+    "27": [
+        "pyspark",
+        "performance",
+        "scale",
+        "python",
+        "spark"
+    ],
+    "28": [
+        "access",
+        "automated script",
+        "proxy server",
+        "gcforest",
+        "decision tree"
+    ],
+    "29": [
+        "data science",
+        "iot",
+        "coursera",
+        "ibm",
+        "course"
+    ],
+    "30": [
+        "open",
+        "api",
+        "economy",
+        "growth",
+        "big data"
+    ],
+    "31": [
+        "video",
+        "show",
+        "sign",
+        "free trial",
+        "ibm data science experience"
+    ],
+    "32": [
+        "free",
+        "stacking",
+        "model",
+        "base",
+        "meta"
+    ],
+    "33": [
+        "analytics",
+        "visualization",
+        "notebook (ipython/jupyter)",
+        "brunel",
+        "data analysis"
+    ],
+    "34": [
+        "machine learning",
+        "government",
+        "job security",
+        "predictive analytics",
+        "environmental protection"
+    ],
+    "35": [
+        "reddit, watson, machine learning, predictive analytics, data science"
+    ],
+    "36": [
+        "data visualization",
+        "big data analytics",
+        "measurement",
+        "bar chart",
+        "data analysis"
+    ],
+    "37": [
+        "cloudant",
+        "custom domain",
+        "cloudflare",
+        "ddos protection",
+        "caching"
+    ],
+    "38": [
+        "database retrieval",
+        "cloudant tutorial",
+        "primary index",
+        "live data sample",
+        "api reference"
+    ],
+    "39": [
+        "shiny app development",
+        "interactive map building",
+        "importing and manipulating data",
+        "country etf performance analysis",
+        "reproducible finance workflows"
+    ],
+    "40": [
+        "ensemble learning",
+        "machine learning",
+        "decision tree",
+        "random forest",
+        "boosting"
+    ],
+    "41": [
+        "mongodb",
+        "shell",
+        "customization",
+        "prompt",
+        "replica set"
+    ],
+    "42": [
+        "scylladb",
+        "apache cassandra",
+        "database",
+        "getting started",
+        "replacement"
+    ],
+    "43": [
+        "free",
+        "deep learning",
+        "tensorflow",
+        "course",
+        "unstructured data"
+    ],
+    "44": [
+        "stack overflow, cloudant, sdk, developer, data services"
+    ],
+    "45": [
+        "build",
+        "custom",
+        "library",
+        "apache",
+        "spark"
+    ],
+    "46": [
+        "realtime",
+        "app",
+        "rethinkdb",
+        "nodejs",
+        "websockets"
+    ],
+    "47": [
+        "watch",
+        "database",
+        "conversion",
+        "workbench",
+        "ibm"
+    ],
+    "48": [
+        "learn",
+        "use",
+        "ibm",
+        "data",
+        "science"
+    ],
+    "49": [
+        "postgis",
+        "filter",
+        "data",
+        "openstreetmap",
+        "postgresql"
+    ],
+    "50": [
+        "community detection",
+        "graph-based machine learning",
+        "modularity optimization",
+        "big data platform",
+        "insight data engineering fellows program"
+    ],
+    "51": [
+        "get",
+        "know",
+        "ml",
+        "landscape",
+        "practical"
+    ],
+    "52": [
+        "ibm",
+        "cloud",
+        "data migration",
+        "dashboard",
+        "analytics"
+    ],
+    "53": [
+        "streams designer, real-time data, ibm watson, drag and drop, getting started"
+    ],
+    "54": [
+        "discover",
+        "eight",
+        "way",
+        "apache spark",
+        "machine learning"
+    ],
+    "55": [
+        "predict",
+        "flight delays",
+        "apache spark mllib",
+        "flightstats",
+        "weather data"
+    ],
+    "56": [
+        "autocomplete",
+        "service",
+        "redis",
+        "data set",
+        "efficient"
+    ],
+    "57": [
+        "work",
+        "transfer learning",
+        "regression model",
+        "flight delay prediction",
+        "variational autoencoders"
+    ],
+    "58": [
+        "holden",
+        "karau",
+        "ibm",
+        "spark",
+        "developers"
+    ],
+    "59": [
+        "neural networks",
+        "optimization",
+        "second-order",
+        "conjugate gradients",
+        "hessian-free"
+    ],
+    "60": [
+        "readr",
+        "packages",
+        "rectangular data",
+        "parsing improvements",
+        "lower-level readers and writers"
+    ],
+    "61": [
+        "postgresql",
+        "window function",
+        "metrics",
+        "maven",
+        "min_max"
+    ],
+    "62": [
+        "find",
+        "information",
+        "neutralize",
+        "data visualization",
+        "importance"
+    ],
+    "63": [
+        "postgresql",
+        "database",
+        "compose",
+        "sql",
+        "user access"
+    ],
+    "64": [
+        "1. gentrification",
+        "2. longitudinal census data",
+        "3. community-oriented forecasting",
+        "4. open data",
+        "5. machine learning"
+    ],
+    "65": [
+        "ibm",
+        "interconnect",
+        "data science",
+        "offline_first",
+        "web app"
+    ],
+    "66": [
+        "cloudant",
+        "offlinefirst",
+        "ios",
+        "sync",
+        "app development"
+    ],
+    "67": [
+        "ibm",
+        "developer_advocate",
+        "mongodb",
+        "php_library",
+        "new_job"
+    ],
+    "68": [
+        "numpy",
+        "scientific computing",
+        "multidimensional array",
+        "slicing",
+        "python"
+    ],
+    "69": [
+        "figuring",
+        "calculate",
+        "moving average",
+        "postgresql",
+        "tracking"
+    ],
+    "70": [
+        "bradley holt",
+        "ibm cloudant",
+        "offline first apps",
+        "open source",
+        "pouchdb"
+    ],
+    "71": [
+        "tutorial",
+        "webtracking",
+        "nodejs",
+        "ibm bluemix",
+        "cloudant"
+    ],
+    "72": [
+        "year",
+        "json",
+        "database",
+        "postgresql",
+        "jsonb"
+    ],
+    "73": [
+        "data science",
+        "courses",
+        "big data",
+        "analytics",
+        "machine learning"
+    ],
+    "74": [
+        "1. machine learning",
+        "2. data science",
+        "3. industry context",
+        "4. transfer learning",
+        "5. artificial general intelligence"
+    ],
+    "75": [
+        "video",
+        "provides",
+        "tour",
+        "community",
+        "ibm"
+    ],
+    "76": [
+        "week",
+        "news",
+        "data science",
+        "big data",
+        "week_news"
+    ],
+    "77": [
+        "sum",
+        "facebook",
+        "offering",
+        "analytics",
+        "open_source"
+    ],
+    "78": [
+        "week",
+        "news",
+        "data science",
+        "big data",
+        "week_news"
+    ],
+    "79": [
+        "video",
+        "cloudant",
+        "geospatial",
+        "index",
+        "real world"
+    ],
+    "80": [
+        "core ml",
+        "machine learning",
+        "data science",
+        "scikit-learn",
+        "ibm watson data platform."
+    ],
+    "81": [
+        "cooperative learning",
+        "entity2vec",
+        "natural language processing",
+        "machine learning",
+        "artificial intelligence"
+    ],
+    "82": [
+        "video",
+        "logistic regression",
+        "ibm watson",
+        "machine learning",
+        "data science"
+    ],
+    "83": [
+        "today",
+        "open_source",
+        "graph database",
+        "janusgraph",
+        "announcement"
+    ],
+    "84": [
+        "watch",
+        "easy",
+        "consume",
+        "twitter",
+        "data"
+    ],
+    "85": [
+        "testthat",
+        "automated testing",
+        "unit testing",
+        "side effects",
+        "catch library"
+    ],
+    "86": [
+        "mean",
+        "median",
+        "mode",
+        "data",
+        "metrics"
+    ],
+    "87": [
+        "big data",
+        "artificial intelligence",
+        "machine learning",
+        "internet of things",
+        "data science"
+    ],
+    "88": [
+        "1. microservices",
+        "2. queueing",
+        "3. pubsub",
+        "4. apache kafka",
+        "5. metrics collector"
+    ],
+    "89": [
+        "cran",
+        "package",
+        "repository",
+        "machine learning",
+        "data science"
+    ],
+    "90": [
+        "pleased",
+        "announce",
+        "enabling",
+        "importing",
+        "mongodb"
+    ],
+    "91": [
+        "website engagement tracking",
+        "elasticsearch",
+        "click tracking",
+        "user engagement",
+        "compose"
+    ],
+    "92": [
+        "wish",
+        "begin",
+        "career",
+        "data science",
+        "avoiding costly mistakes"
+    ],
+    "93": [
+        "php",
+        "bluemix",
+        "deployment",
+        "cloud",
+        "tutorial"
+    ],
+    "94": [
+        "ibm",
+        "data science",
+        "lead product manager",
+        "armand ruiz gabernet",
+        "bigdatanyc"
+    ],
+    "95": [
+        "data science",
+        "big data",
+        "predictive analytics",
+        "deep learning",
+        "neural network"
+    ],
+    "96": [
+        "discover",
+        "open",
+        "source",
+        "machine",
+        "learning"
+    ],
+    "97": [
+        "data science",
+        "big data",
+        "artificial intelligence",
+        "machine learning",
+        "cognitive computing"
+    ],
+    "98": [
+        "sign",
+        "learn",
+        "data",
+        "visualization",
+        "ggplot2"
+    ],
+    "99": [
+        "mongodb",
+        "database",
+        "php",
+        "nosql",
+        "cloud"
+    ],
+    "100": [
+        "video",
+        "show",
+        "data asset",
+        "python notebook",
+        "ibm data catalog"
+    ],
+    "101": [
+        "projects",
+        "data",
+        "science",
+        "choose",
+        "tips"
+    ],
+    "102": [
+        "data science",
+        "data catalog",
+        "ibm watson data platform",
+        "scalability",
+        "governance"
+    ],
+    "103": [
+        "big_data",
+        "scaling",
+        "data_scientist",
+        "analytics",
+        "use_case"
+    ],
+    "104": [
+        "artificial intelligence",
+        "data science",
+        "big data",
+        "machine learning",
+        "events"
+    ],
+    "105": [
+        "progressive",
+        "web",
+        "apps",
+        "offline-first",
+        "cloudant"
+    ],
+    "106": [
+        "data visualization",
+        "redundant information",
+        "detail",
+        "design",
+        "contrast"
+    ],
+    "107": [
+        "machine",
+        "learning",
+        "enhancer",
+        "product",
+        "erik bernhardsson"
+    ],
+    "108": [
+        "- ibm",
+        "- data science",
+        "- pixiedust",
+        "- notebooks",
+        "- data exploration"
+    ],
+    "109": [
+        "study",
+        "group",
+        "deep learning",
+        "performance optimization",
+        "tensorflow"
+    ],
+    "110": [
+        "pixiedust",
+        "python",
+        "notebook",
+        "data science",
+        "visualization"
+    ],
+    "111": [
+        "jupyter notebooks",
+        "python scripting",
+        "data science",
+        "data organization",
+        "dsx projects"
+    ],
+    "112": [
+        "apache",
+        "systemml",
+        "demo",
+        "machine learning",
+        "custom algorithms"
+    ],
+    "113": [
+        "week",
+        "news",
+        "data science",
+        "big data",
+        "february"
+    ],
+    "114": [
+        "loren",
+        "graphql",
+        "multiple source data",
+        "combining data",
+        "databases"
+    ],
+    "115": [
+        "ibm",
+        "design",
+        "team",
+        "data scientist",
+        "data science"
+    ],
+    "116": [
+        "tutorial",
+        "complete",
+        "concept",
+        "random forest",
+        "parameter tuning"
+    ],
+    "117": [
+        "migration",
+        "java",
+        "apache spark",
+        "code",
+        "summary"
+    ],
+    "118": [
+        "preschool",
+        "accessibility",
+        "mission",
+        "customer loyalty",
+        "startup technology"
+    ],
+    "119": [
+        "spark",
+        "batch job",
+        "spark-submit",
+        "scala",
+        "python"
+    ],
+    "120": [
+        "machine learning",
+        "revolution",
+        "industry",
+        "keynote",
+        "outcome"
+    ],
+    "121": [
+        "database",
+        "sql",
+        "nosql",
+        "difference",
+        "comparison"
+    ],
+    "122": [
+        "machine learning",
+        "data science",
+        "ibm watson",
+        "jupyter notebooks",
+        "apache spark"
+    ],
+    "123": [
+        "time",
+        "database",
+        "technology",
+        "choice",
+        "graph"
+    ],
+    "124": [
+        "data science, machine learning, python, scikit-learn, tutorial"
+    ],
+    "125": [
+        "musings",
+        "data",
+        "science",
+        "software",
+        "engineering"
+    ],
+    "126": [
+        "learn",
+        "joins",
+        "rethinkdb",
+        "document",
+        "database"
+    ],
+    "127": [
+        "couchdb",
+        "meteor",
+        "database",
+        "real-time updates",
+        "cloudant"
+    ],
+    "128": [
+        "cloudant",
+        "faceted search",
+        "apache lucene",
+        "search indexing",
+        "range facet"
+    ],
+    "129": [
+        "sasko",
+        "stubailo",
+        "meteor",
+        "graphql",
+        "data management"
+    ],
+    "130": [
+        "feature",
+        "importance",
+        "machine learning",
+        "python",
+        "xgboost"
+    ],
+    "131": [
+        "pandas",
+        "data analysis",
+        "graphing",
+        "python",
+        "data visualization"
+    ],
+    "132": [
+        "python",
+        "cheat sheet",
+        "data science",
+        "problem solving",
+        "help"
+    ],
+    "133": [
+        "release",
+        "elasticsearch",
+        "painless",
+        "scripting",
+        "performant"
+    ],
+    "134": [
+        "big data",
+        "data science",
+        "courses",
+        "events",
+        "education"
+    ],
+    "135": [
+        "following",
+        "couchdb",
+        "latest release",
+        "cloudant database",
+        "backup"
+    ],
+    "136": [
+        "week",
+        "news",
+        "data science",
+        "big data",
+        "february"
+    ],
+    "137": [
+        "video",
+        "cloudant",
+        "http api commands",
+        "database",
+        "learning center"
+    ],
+    "138": [
+        "dplyr",
+        "datatable",
+        "data manipulation",
+        "natural language",
+        "package"
+    ],
+    "139": [
+        "gigi",
+        "sayfan",
+        "moneyball",
+        "mysql",
+        "redis"
+    ],
+    "140": [
+        "video",
+        "datalayer",
+        "conference",
+        "emile baizel",
+        "fintech bot."
+    ],
+    "141": [
+        "reddit",
+        "sentiment analysis",
+        "sparkr",
+        "couchdb",
+        "data pipeline"
+    ],
+    "142": [
+        "neural networks",
+        "machine learning",
+        "applications",
+        "beginner",
+        "types"
+    ],
+    "143": [
+        "scala",
+        "apache spark",
+        "big data",
+        "programming language",
+        "data science"
+    ],
+    "144": [
+        "data science",
+        "big data",
+        "machine learning",
+        "internet of things",
+        "data mining"
+    ],
+    "145": [
+        "data governance",
+        "data catalog",
+        "data lake",
+        "big data",
+        "cloud strategy"
+    ],
+    "146": [
+        "data science",
+        "db2 warehouse",
+        "cloud",
+        "notebooks",
+        "data access"
+    ],
+    "147": [
+        "build",
+        "data",
+        "collection",
+        "app",
+        "qr code"
+    ],
+    "148": [
+        "search",
+        "slack",
+        "ibm",
+        "graph",
+        "database"
+    ],
+    "149": [
+        "secure gateway",
+        "web application",
+        "analysis",
+        "reporting",
+        "bluemix"
+    ],
+    "150": [
+        "campus",
+        "discounts",
+        "composehosted",
+        "database",
+        "ibm watson"
+    ],
+    "151": [
+        "jupyter notebook",
+        "data science",
+        "python",
+        "interactive",
+        "notebook sharing"
+    ],
+    "152": [
+        "- nlp",
+        "- machine learning",
+        "- text data",
+        "- data science",
+        "- classification"
+    ],
+    "153": [
+        "data science",
+        "machine learning",
+        "use case",
+        "predicting flight cancellations",
+        "weather data"
+    ],
+    "154": [
+        "watch",
+        "quick",
+        "easy",
+        "analytics",
+        "dashdb"
+    ],
+    "155": [
+        "article",
+        "moving average",
+        "metrics",
+        "calculation",
+        "postgresql"
+    ],
+    "156": [
+        "jonas",
+        "helfer",
+        "meteor",
+        "graphql",
+        "databases"
+    ],
+    "157": [
+        "data science",
+        "approach",
+        "variable selection",
+        "statistician",
+        "overview"
+    ],
+    "158": [
+        "d3heatmap",
+        "interactive",
+        "heat maps",
+        "package",
+        "rstudio"
+    ],
+    "159": [
+        "seti",
+        "citizen scientist",
+        "death star",
+        "radio waves",
+        "data visualization"
+    ],
+    "160": [
+        "location",
+        "tracker",
+        "databaseperuser design pattern",
+        "cloudant envoy",
+        "scaling"
+    ],
+    "161": [
+        "apache spark",
+        "machine learning",
+        "ibm bluemix",
+        "data analysis",
+        "k-means algorithm"
+    ],
+    "162": [
+        "stock market",
+        "data analysis",
+        "python",
+        "finance",
+        "time series"
+    ],
+    "163": [
+        "compose",
+        "deployments",
+        "portals",
+        "powerups",
+        "deleted"
+    ],
+    "164": [
+        "deep learning",
+        "machine learning",
+        "neural networks",
+        "convolutional neural networks",
+        "recurrent neural networks"
+    ],
+    "165": [
+        "classcraft",
+        "gamifies",
+        "classroom",
+        "education",
+        "teaching platform"
+    ],
+    "166": [
+        "mongodb",
+        "push notifications",
+        "internet of things",
+        "notification service",
+        "compose"
+    ],
+    "167": [
+        "cloudant",
+        "database",
+        "deployment",
+        "replication",
+        "on-premises"
+    ],
+    "168": [
+        "nodejs",
+        "data science",
+        "jupyter notebook",
+        "pixiedust node",
+        "npm modules"
+    ],
+    "169": [
+        "tl",
+        "dr",
+        "rethinkdb",
+        "database",
+        "compose"
+    ],
+    "170": [
+        "data science",
+        "cv writing",
+        "interview tips",
+        "career advice",
+        "tech hiring"
+    ],
+    "171": [
+        "rethinkdb",
+        "fantasia",
+        "aggregation",
+        "fold command",
+        "database feature"
+    ],
+    "172": [
+        "cloud",
+        "data",
+        "connector",
+        "authentication",
+        "enrichment"
+    ],
+    "173": [
+        "data science",
+        "conferences",
+        "machine learning",
+        "artificial intelligence",
+        "best practice"
+    ],
+    "174": [
+        "faceted search",
+        "search service",
+        "cloudant",
+        "restful api",
+        "ibm bluemix"
+    ],
+    "175": [
+        "poem generator",
+        "watson apis",
+        "flask web application",
+        "emotional analysis",
+        "postgresql database"
+    ],
+    "176": [
+        "join",
+        "data analytics",
+        "top analytics tool",
+        "discovering",
+        "broad array"
+    ],
+    "177": [
+        "openwhisk",
+        "microservices",
+        "cloudant",
+        "javascript",
+        "event-driven"
+    ],
+    "178": [
+        "postgresql, json, database, indexing, efficiency"
+    ],
+    "179": [
+        "power",
+        "prototyping",
+        "mongodb",
+        "nodered",
+        "restful api"
+    ],
+    "180": [
+        "offline",
+        "camp",
+        "california",
+        "developer advocate",
+        "ibm cloud"
+    ],
+    "181": [
+        "bayesian regularization, neural networks, ai, machine learning, probability distribution"
+    ],
+    "182": [
+        "video",
+        "rstudio",
+        "ibm",
+        "data science",
+        "dsx"
+    ],
+    "183": [
+        "james",
+        "kobielus",
+        "data",
+        "science",
+        "ibm"
+    ],
+    "184": [
+        "- analytical model",
+        "- boost performance",
+        "- new source of data",
+        "- customer behavior",
+        "- big data analytics"
+    ],
+    "185": [
+        "cloudant",
+        "location-aware system",
+        "web developer",
+        "demo application",
+        "html5"
+    ],
+    "186": [
+        "cloudant",
+        "geospatial",
+        "querying",
+        "lucene",
+        "text search"
+    ],
+    "187": [
+        "tl",
+        "dr",
+        "rethinkdb",
+        "driver",
+        "compatibility"
+    ],
+    "188": [
+        "domain",
+        "data",
+        "science",
+        "problem-solving",
+        "data analysis"
+    ],
+    "189": [
+        "pandas",
+        "data analysis",
+        "excel tasks",
+        "python script",
+        "fuzzy string matching"
+    ],
+    "190": [
+        "today",
+        "compose",
+        "horizontal scaling",
+        "database",
+        "enterprise platform"
+    ],
+    "191": [
+        "week",
+        "news",
+        "data science",
+        "big data",
+        "march"
+    ],
+    "192": [
+        "iot",
+        "sensors",
+        "cloud",
+        "digital hub",
+        "hull"
+    ],
+    "193": [
+        "data science",
+        "ibm watson",
+        "apache spark",
+        "job monitoring",
+        "jupyter notebook"
+    ],
+    "194": [
+        "listen",
+        "podcast",
+        "ibm streams",
+        "data science",
+        "real-time streaming analytics"
+    ],
+    "195": [
+        "artificial intelligence",
+        "machine learning",
+        "ethics",
+        "cognitive computing",
+        "augmentation"
+    ],
+    "196": [
+        "aws",
+        "mongodb",
+        "compose",
+        "security",
+        "deployment"
+    ],
+    "197": [
+        "cloudant",
+        "query",
+        "database",
+        "api",
+        "indexing"
+    ],
+    "198": [
+        "ibm",
+        "cloud",
+        "data movement",
+        "pipeline",
+        "modularity"
+    ],
+    "199": [
+        "- datalayer",
+        "- storage",
+        "- art genome project",
+        "- classification system",
+        "- technology framework"
+    ],
+    "200": [
+        "autocorrect",
+        "google",
+        "maps",
+        "ai",
+        "revolutionizing"
+    ],
+    "201": [
+        "week",
+        "introducing",
+        "datalayer",
+        "conference",
+        "keynote"
+    ],
+    "202": [
+        "pandas",
+        "python",
+        "data analysis",
+        "open data",
+        "data science"
+    ],
+    "203": [
+        "autocomplete",
+        "serverless",
+        "data platform",
+        "web development",
+        "ibm watson"
+    ],
+    "204": [
+        "bringing",
+        "video",
+        "session",
+        "observability",
+        "datalayer_conference"
+    ],
+    "205": [
+        "eric",
+        "jang",
+        "variational methods",
+        "machine learning",
+        "statistical inference"
+    ],
+    "206": [
+        "convert",
+        "xml",
+        "csv",
+        "dashdb",
+        "data"
+    ],
+    "207": [
+        "working",
+        "mongodb",
+        "date",
+        "type",
+        "tips"
+    ],
+    "208": [
+        "users",
+        "index",
+        "searchbased",
+        "viewbased",
+        "cloudant"
+    ],
+    "209": [
+        "java",
+        "cloudant",
+        "watson",
+        "employee recommendation",
+        "app development"
+    ],
+    "210": [
+        "week",
+        "news",
+        "data science",
+        "big data",
+        "february"
+    ],
+    "211": [
+        "thinky",
+        "opensource",
+        "orm",
+        "rethinkdb",
+        "data modeling"
+    ],
+    "212": [
+        "idempotent",
+        "data model",
+        "messaging system",
+        "potency",
+        "upsert"
+    ],
+    "213": [
+        "data science",
+        "ibm",
+        "energy usage",
+        "predictive model",
+        "jupyter notebook"
+    ],
+    "214": [
+        "year",
+        "compose",
+        "highlight",
+        "database",
+        "blog post"
+    ],
+    "215": [
+        "dplyr",
+        "tidyr",
+        "data wrangling",
+        "package",
+        "cheat sheet"
+    ],
+    "216": [
+        "pouchdb",
+        "cloudant",
+        "ibm bluemix",
+        "sync",
+        "offline-first apps"
+    ],
+    "217": [
+        "rethinkdb",
+        "database",
+        "querying",
+        "json",
+        "realtime"
+    ],
+    "218": [
+        "interesting",
+        "data",
+        "science",
+        "web",
+        "collected"
+    ],
+    "219": [
+        "scaling",
+        "offline",
+        "first",
+        "envoy",
+        "cloudant"
+    ],
+    "220": [
+        "rundown",
+        "redis driver",
+        "popular",
+        "programming language",
+        "tour"
+    ],
+    "221": [
+        "data analytics",
+        "ibm watson",
+        "asset catalog",
+        "metadata",
+        "data governance"
+    ],
+    "222": [
+        "cloudant envoy",
+        "authentication",
+        "offline-first",
+        "twitter",
+        "pouchdb"
+    ],
+    "223": [
+        "homepage_follow",
+        "data_science",
+        "deep_learning",
+        "apache_spark",
+        "ibm_watson_data_platform"
+    ],
+    "224": [
+        "apply",
+        "sapply",
+        "lapply",
+        "data",
+        "function"
+    ],
+    "225": [
+        "concise",
+        "explanation",
+        "backpropagation",
+        "neural",
+        "network"
+    ],
+    "226": [
+        "1. upload",
+        "2. softlayer",
+        "3. object store",
+        "4. dashdb",
+        "5. move to cloud"
+    ],
+    "227": [
+        "nosql",
+        "databases",
+        "comparison",
+        "types",
+        "selection"
+    ],
+    "228": [
+        "watch",
+        "analyze",
+        "dashdb",
+        "data",
+        "publish"
+    ],
+    "229": [
+        "serverless",
+        "ibm watson",
+        "data flow",
+        "node.js",
+        "cloud functions"
+    ],
+    "230": [
+        "data science",
+        "web links",
+        "newsletter",
+        "data mining",
+        "weekly picks"
+    ],
+    "231": [
+        "spark",
+        "sql",
+        "relational",
+        "database",
+        "cloudbased"
+    ],
+    "232": [
+        "data preparation",
+        "self-service",
+        "visualization",
+        "ibm data refinery",
+        "cloud service"
+    ],
+    "233": [
+        "bayesian nonparametrics",
+        "dirichlet process",
+        "nonparametric clustering",
+        "hierarchical dirichlet process",
+        "online variational inference"
+    ],
+    "234": [
+        "multicloud",
+        "machine learning",
+        "data science",
+        "training scenarios",
+        "flexibility"
+    ],
+    "235": [
+        "caching",
+        "database",
+        "redis",
+        "postgresql",
+        "entity framework"
+    ],
+    "236": [
+        "object detection",
+        "yolo",
+        "deep learning",
+        "realtime",
+        "performance"
+    ],
+    "237": [
+        "deep learning",
+        "machine learning",
+        "neural network",
+        "data science",
+        "open source"
+    ],
+    "238": [
+        "andy",
+        "internet of things",
+        "wearable technology",
+        "data capture",
+        "cloudant"
+    ],
+    "239": [
+        "apache spark",
+        "graphframes",
+        "python",
+        "jupyter notebook",
+        "dataframes"
+    ],
+    "240": [
+        "spark",
+        "rstudio",
+        "aws",
+        "dataframe",
+        "cluster"
+    ],
+    "241": [
+        "pixiedust",
+        "data science",
+        "python notebook",
+        "visualization",
+        "ibm watson"
+    ],
+    "242": [
+        "customer",
+        "usecase",
+        "making",
+        "compose",
+        "omni"
+    ],
+    "243": [
+        "mongo metrics",
+        "calculating mode",
+        "classical analytics method",
+        "third entry of series",
+        "top rounding"
+    ],
+    "244": [
+        "- data exploration",
+        "- iterative process",
+        "- business demand",
+        "- interactive analytics notebooks",
+        "- data scientist"
+    ],
+    "245": [
+        "seium",
+        "offlinefirst",
+        "web apps",
+        "database",
+        "hackathon"
+    ],
+    "246": [
+        "offline",
+        "web-based email",
+        "ibm verse",
+        "offline first approach",
+        "progressive web apps"
+    ],
+    "247": [
+        "mongodb",
+        "document validation",
+        "practical example",
+        "invoice application",
+        "fictitious cookie company"
+    ],
+    "248": [
+        "cloudant",
+        "query",
+        "declarative",
+        "index",
+        "tutorial"
+    ],
+    "249": [
+        "cloudant",
+        "sql",
+        "database",
+        "json document",
+        "node.js library"
+    ],
+    "250": [
+        "- machine learning",
+        "- ibm watson",
+        "- data science",
+        "- object storage",
+        "- containers"
+    ],
+    "251": [
+        "data",
+        "science",
+        "interview",
+        "future",
+        "thought leader"
+    ],
+    "252": [
+        "interesting",
+        "data",
+        "science",
+        "web picks",
+        "september"
+    ],
+    "253": [
+        "machine learning",
+        "data science",
+        "ibm watson data platform",
+        "data scientist",
+        "continuous improvement"
+    ],
+    "254": [
+        "apple",
+        "ibm",
+        "machine learning",
+        "partnership",
+        "watsoncore ml"
+    ],
+    "255": [
+        "redis",
+        "pubsub",
+        "node",
+        "socketio",
+        "realtime web"
+    ],
+    "256": [
+        "pleased",
+        "announced",
+        "xml2",
+        "wrapper",
+        "libxml2"
+    ],
+    "257": [
+        "raspberry pis",
+        "cloudant cluster",
+        "distributed database",
+        "ansible automation",
+        "flashing leds"
+    ],
+    "258": [
+        "self-driving car",
+        "open-source",
+        "driving data",
+        "github",
+        "udacity"
+    ],
+    "259": [
+        "change",
+        "version",
+        "distributed",
+        "etcd",
+        "database"
+    ],
+    "260": [
+        "mldb",
+        "opensource",
+        "database",
+        "machine learning",
+        "restful api"
+    ],
+    "261": [
+        "video",
+        "replicate",
+        "sample database",
+        "cloudant",
+        "learning center"
+    ],
+    "262": [
+        "new builders podcast",
+        "developer interviews",
+        "cloud data services",
+        "progressive web apps",
+        "machine learning"
+    ],
+    "263": [
+        "rstudio",
+        "tips",
+        "keyboard shortcuts",
+        "markdown",
+        "contributors"
+    ],
+    "264": [
+        "meet",
+        "new",
+        "sparkcloudant",
+        "connector",
+        "powerful."
+    ],
+    "265": [
+        "team",
+        "redis",
+        "slow query logs",
+        "configuration controls",
+        "improving process"
+    ],
+    "266": [
+        "data science",
+        "ibm",
+        "streaming analytics",
+        "python",
+        "neural network"
+    ],
+    "267": [
+        "ibm, reddit, sentiment analysis, data analysis, watson"
+    ],
+    "268": [
+        "reproducible, finance, sector correlations, shiny app, jonathan regenstein."
+    ],
+    "269": [
+        "data science",
+        "big data",
+        "artificial intelligence",
+        "machine learning",
+        "events"
+    ],
+    "270": [
+        "compilation",
+        "youtube",
+        "video",
+        "teaching",
+        "statistics"
+    ],
+    "271": [
+        "compose",
+        "google cloud platform",
+        "database",
+        "private cloud",
+        "configuration"
+    ],
+    "272": [
+        "couchdb",
+        "data visualization",
+        "dashboard",
+        "json",
+        "chango"
+    ],
+    "273": [
+        "aware",
+        "statistical",
+        "bias",
+        "data science",
+        "example"
+    ],
+    "274": [
+        "bunyan",
+        "logging",
+        "data pipes",
+        "cloudant",
+        "troubleshooting"
+    ],
+    "275": [
+        "- zapier",
+        "- custom integrations",
+        "- postgresql",
+        "- example use cases",
+        "- composing integrations with zapier"
+    ],
+    "276": [
+        "love",
+        "work",
+        "microsoft excel",
+        "ibm dashdb",
+        "data source"
+    ],
+    "277": [
+        "video",
+        "data",
+        "bluemix",
+        "external source",
+        "dsx"
+    ],
+    "278": [
+        "deep_learning",
+        "artificial_intelligence",
+        "spark_summit",
+        "neural_network",
+        "data_science"
+    ],
+    "279": [
+        "find",
+        "talk",
+        "redis",
+        "database",
+        "developer"
+    ],
+    "280": [
+        "learn",
+        "connect",
+        "couchdb",
+        "cloudant",
+        "lucene"
+    ],
+    "281": [
+        "crosstabview",
+        "command",
+        "data rearrangement",
+        "sql query",
+        "postgresql"
+    ],
+    "282": [
+        "visited",
+        "dronedeploy",
+        "mapping",
+        "drone",
+        "data"
+    ],
+    "283": [
+        "mapping",
+        "data",
+        "visualization",
+        "color",
+        "br\u00fcnel"
+    ],
+    "284": [
+        "machine learning",
+        "apache spark",
+        "community projects",
+        "performance",
+        "data communication"
+    ],
+    "285": [
+        "crosstab",
+        "function",
+        "sql",
+        "metrics",
+        "postgresql"
+    ],
+    "286": [
+        "cloudant, ibm graph, backend development, asynchronous uploads, parallel indexing"
+    ],
+    "287": [
+        "interview",
+        "compose",
+        "developer",
+        "mysql",
+        "platform"
+    ],
+    "288": [
+        "week",
+        "news",
+        "data science",
+        "big data",
+        "january"
+    ],
+    "289": [
+        "slack",
+        "integration",
+        "api",
+        "cloudant",
+        "tutorial"
+    ],
+    "290": [
+        "elasticsearch",
+        "command-line",
+        "search tool",
+        "ssh access portal",
+        "front-end"
+    ],
+    "291": [
+        "receptive_field",
+        "convolutional_neural",
+        "deep_learning",
+        "visualization",
+        "arithmetic"
+    ],
+    "292": [
+        "video",
+        "cloudant",
+        "replication",
+        "tutorial",
+        "database"
+    ],
+    "293": [
+        "open data",
+        "civic engagement",
+        "economic justice",
+        "local government",
+        "nyc"
+    ],
+    "294": [
+        "- couchdb",
+        "- database",
+        "- best practices",
+        "- common misconceptions",
+        "- user mistakes"
+    ],
+    "295": [
+        "curated",
+        "list",
+        "cited",
+        "deep",
+        "learning"
+    ],
+    "296": [
+        "chatbot",
+        "business",
+        "janusgraph",
+        "articles",
+        "compose"
+    ],
+    "297": [
+        "modern",
+        "dimensionality",
+        "reduction",
+        "algorithm",
+        "machine learning"
+    ],
+    "298": [
+        "data refinery",
+        "data scientist",
+        "join operation",
+        "ibm watson data platform",
+        "data analysis"
+    ],
+    "299": [
+        "analytics",
+        "visualization",
+        "ipython/jupyter notebooks",
+        "brunel",
+        "interface"
+    ],
+    "300": [
+        "compose",
+        "big data",
+        "podcast",
+        "tech",
+        "introducing"
+    ],
+    "301": [
+        "gigi",
+        "postgresql",
+        "go",
+        "sqlx",
+        "relational databases"
+    ],
+    "302": [
+        "data science",
+        "ibm",
+        "workflow",
+        "parallel processing",
+        "access control"
+    ],
+    "303": [
+        "backpropagation",
+        "neural networks",
+        "activation function",
+        "loss function",
+        "gradient descent"
+    ],
+    "304": [
+        "data science",
+        "big data",
+        "machine learning",
+        "artificial intelligence",
+        "neural networks"
+    ],
+    "305": [
+        "mysql",
+        "json",
+        "generated columns",
+        "indexing",
+        "doe_nt"
+    ],
+    "306": [
+        "moving",
+        "medium",
+        "ibm watson",
+        "data lab",
+        "developer advocacy"
+    ],
+    "307": [
+        "- datalayer",
+        "- conference",
+        "- ambry",
+        "- linkedin",
+        "- immutable content"
+    ],
+    "308": [
+        "couchimport",
+        "data importing",
+        "couchdb",
+        "command-line utility",
+        "nodejs stream"
+    ],
+    "309": [
+        "search",
+        "index",
+        "flexible query",
+        "video",
+        "cloudant"
+    ],
+    "310": [
+        "neural networks",
+        "time series prediction",
+        "exchange rates",
+        "lstm",
+        "data normalization"
+    ],
+    "311": [
+        "graphical models",
+        "parameter estimation",
+        "inference algorithms",
+        "probabilistic models",
+        "approximate inference"
+    ],
+    "312": [
+        "1. backup",
+        "2. compose api",
+        "3. node.js",
+        "4. on-demand",
+        "5. automation"
+    ],
+    "313": [
+        "learn",
+        "machine learning",
+        "process",
+        "building",
+        "analytical model"
+    ],
+    "314": [
+        "views",
+        "resources",
+        "deep learning",
+        "neural network",
+        "random weekend reading"
+    ],
+    "315": [
+        "emojis",
+        "internet",
+        "text meaning",
+        "semantic information",
+        "neurally embedded"
+    ],
+    "316": [
+        "python",
+        "scikit",
+        "machine learning",
+        "behavioral profiling",
+        "text classification"
+    ],
+    "317": [
+        "pouchdb",
+        "offline first",
+        "cloudant envoy",
+        "authentication",
+        "progressive web app"
+    ],
+    "318": [
+        "- ibm",
+        "- dashdb",
+        "- data loading",
+        "- pyspark",
+        "- pandas"
+    ],
+    "319": [
+        "watson",
+        "data platform",
+        "shell scripts",
+        "apis",
+        "data flows"
+    ],
+    "320": [
+        "couchdb",
+        "data warehouse",
+        "etl",
+        "data transformation",
+        "json document"
+    ],
+    "321": [
+        "exploring",
+        "mapping",
+        "data",
+        "elasticsearch",
+        "node.js"
+    ],
+    "322": [
+        "postgresql",
+        "filter clause",
+        "foreign data wrapper",
+        "streamline",
+        "database import"
+    ],
+    "323": [
+        "video",
+        "object storage",
+        "data science",
+        "manage",
+        "ibm"
+    ],
+    "324": [
+        "pandas",
+        "cheat sheet",
+        "python",
+        "numerical library",
+        "code snippets"
+    ],
+    "325": [
+        "map",
+        "cloud",
+        "data",
+        "visualization",
+        "python"
+    ],
+    "326": [
+        "ibm",
+        "graph",
+        "easy-to-use",
+        "fully-managed",
+        "database service"
+    ],
+    "327": [
+        "enhanced",
+        "cloudant",
+        "search",
+        "watson",
+        "alchemy"
+    ],
+    "328": [
+        "power",
+        "ibm",
+        "bluemix",
+        "cloud",
+        "database"
+    ],
+    "329": [
+        "python",
+        "association analysis",
+        "market basket analysis",
+        "data analysis",
+        "mlxtend library"
+    ],
+    "330": [
+        "data visualization",
+        "brunel",
+        "repurposing visualization techniques",
+        "jupyter notebook",
+        "data reshaping"
+    ],
+    "331": [
+        "customer",
+        "video",
+        "form",
+        "compose",
+        "datalayer"
+    ],
+    "332": [
+        "log sharing",
+        "nodejs app",
+        "npm install",
+        "compose",
+        "bluemix"
+    ],
+    "333": [
+        "1. pouchdb",
+        "2. cloudant",
+        "3. offline-first",
+        "4. iot",
+        "5. use case"
+    ],
+    "334": [
+        "open source",
+        "career advice",
+        "getting started",
+        "collaboration",
+        "github"
+    ],
+    "335": [
+        "video",
+        "quick",
+        "overview",
+        "jupyter notebook",
+        "ibm data science experience"
+    ],
+    "336": [
+        "deep learning",
+        "powered ai system",
+        "complex difficulty hurdle",
+        "prominent challenge",
+        "deep_learning"
+    ],
+    "337": [
+        "access",
+        "denied",
+        "automated",
+        "script",
+        "pdf"
+    ],
+    "338": [
+        "nodered",
+        "power",
+        "prototyping",
+        "authentication",
+        "jsonwebtoken"
+    ],
+    "339": [
+        "- ibm",
+        "- streams designer",
+        "- cloud",
+        "- analytics",
+        "- tutorial"
+    ],
+    "340": [
+        "elasticsearch",
+        "geo mapping",
+        "datatypes",
+        "querying",
+        "geo_point"
+    ],
+    "341": [
+        "look",
+        "crosstab",
+        "postgresql",
+        "pivot table",
+        "aggregate data"
+    ],
+    "342": [
+        "- ibm",
+        "- dashdb",
+        "- cloud computing",
+        "- data storage",
+        "- object store"
+    ],
+    "343": [
+        "meteor",
+        "toys",
+        "web development",
+        "visualization",
+        "tool"
+    ],
+    "344": [
+        "big data",
+        "data science",
+        "machine learning",
+        "ai",
+        "events"
+    ],
+    "345": [
+        "secondary",
+        "index",
+        "query",
+        "data",
+        "cloudant"
+    ],
+    "346": [
+        "gerrymandering",
+        "data science",
+        "fair maps",
+        "electoral competitiveness",
+        "racial diversity"
+    ],
+    "347": [
+        "data science",
+        "data science experience",
+        "watson",
+        "machine learning",
+        "beta release"
+    ],
+    "348": [
+        "week",
+        "news",
+        "data science",
+        "big data",
+        "april"
+    ],
+    "349": [
+        "- sparkr",
+        "- statistical programming language",
+        "- in-memory data processing",
+        "- distributed computation engine",
+        "- big data analytics"
+    ],
+    "350": [
+        "fitbit",
+        "data collection",
+        "python code",
+        "data visualization",
+        "data analysis"
+    ],
+    "351": [
+        "open source",
+        "r programming language",
+        "data analysis",
+        "statistical software",
+        "exploratory data analysis"
+    ],
+    "352": [
+        "data science",
+        "team structure",
+        "skills required",
+        "ibm analytics",
+        "machine learning"
+    ],
+    "353": [
+        "sparklyr",
+        "interface",
+        "apache spark",
+        "machine learning",
+        "dplyr"
+    ],
+    "354": [
+        "search",
+        "index",
+        "flexible query",
+        "cloudant",
+        "learning center"
+    ],
+    "355": [
+        "video",
+        "data analysis",
+        "shiny application",
+        "ibm data science experience (dsx)",
+        "rstudio"
+    ],
+    "356": [
+        "deep learning",
+        "structure",
+        "innate priors",
+        "yann lecun",
+        "christopher manning"
+    ],
+    "357": [
+        "time",
+        "failure",
+        "rabbitmq",
+        "lorna jane mitchell",
+        "video"
+    ],
+    "358": [
+        "switch",
+        "newer mongodb driver",
+        "low-level improvement",
+        "meteor",
+        "compose mongodb"
+    ],
+    "359": [
+        "optimization",
+        "predictive analytics",
+        "marketing campaign",
+        "machine learning",
+        "data science"
+    ],
+    "360": [
+        "cloudant",
+        "query",
+        "database",
+        "declarative",
+        "mongodb"
+    ],
+    "361": [
+        "location",
+        "tracker",
+        "app design",
+        "databaseperuser design pattern",
+        "cloudant synchronization"
+    ],
+    "362": [
+        "data science, ibm, watson machine learning, pipeline, model training"
+    ],
+    "363": [
+        "watson",
+        "data flow",
+        "json",
+        "ibm",
+        "bluemix"
+    ],
+    "364": [
+        "data science",
+        "big data",
+        "artificial intelligence",
+        "courses",
+        "learning paths"
+    ],
+    "365": [
+        "aws",
+        "lambda",
+        "serverless",
+        "framework",
+        "mongodb"
+    ],
+    "366": [
+        "finding",
+        "cluster",
+        "powerful",
+        "tool",
+        "understanding"
+    ],
+    "367": [
+        "nodejs",
+        "data visualization",
+        "python",
+        "jupyter notebook",
+        "ibm watson"
+    ],
+    "368": [
+        "shoveling",
+        "snowfall data",
+        "cabin fever",
+        "counter act",
+        "winter storm"
+    ],
+    "369": [
+        "jupyter notebooks",
+        "data frames",
+        "object storage",
+        "data analysis",
+        "ibm watson data platform"
+    ],
+    "370": [
+        "fathom",
+        "3d printing",
+        "manufacturing",
+        "printer",
+        "efficiency"
+    ],
+    "371": [
+        "ibm cloudant, location tracker application, user management, nodejs app, cloud query"
+    ],
+    "372": [
+        "chatbot",
+        "graph database",
+        "recommendation system",
+        "ibm watson",
+        "data platform"
+    ],
+    "373": [
+        "data science",
+        "watson data platform",
+        "notebook",
+        "collaboration",
+        "learning experience"
+    ],
+    "374": [
+        "android",
+        "ios",
+        "sync",
+        "library",
+        "open source"
+    ],
+    "375": [
+        "declarative machine learning",
+        "apache systemml",
+        "data scientist",
+        "dml scripting language",
+        "distributed platform"
+    ],
+    "376": [
+        "ggplot2",
+        "release",
+        "candidate",
+        "major bug",
+        "improvements"
+    ],
+    "377": [
+        "transporter",
+        "streamlining",
+        "data moving",
+        "efficiency",
+        "new release"
+    ],
+    "378": [
+        "watch",
+        "interactive",
+        "selfservice",
+        "data analytics",
+        "visualization"
+    ],
+    "379": [
+        "machine learning",
+        "data structures",
+        "binary tree",
+        "linked list",
+        "sparse matrix"
+    ],
+    "380": [
+        "- python notebook",
+        "- dashdb",
+        "- apache spark",
+        "- data analysis",
+        "- market trends"
+    ],
+    "381": [
+        "data science",
+        "hiring",
+        "interviewing",
+        "machine learning",
+        "classification problem"
+    ],
+    "382": [
+        "text analytics",
+        "structured data",
+        "entity extraction",
+        "sentiment analysis",
+        "big data"
+    ],
+    "383": [
+        "using",
+        "python",
+        "tool",
+        "natural",
+        "language"
+    ],
+    "384": [
+        "data science",
+        "watson",
+        "machine learning",
+        "performance monitoring",
+        "ibm"
+    ],
+    "385": [
+        "see",
+        "load",
+        "new",
+        "geospatial",
+        "data"
+    ],
+    "386": [
+        "cloudant",
+        "database",
+        "conflict",
+        "replication",
+        "document"
+    ],
+    "387": [
+        "distributed",
+        "replication",
+        "cloudant",
+        "database",
+        "sync"
+    ],
+    "388": [
+        "mongodb",
+        "aggregation pipeline",
+        "examples",
+        "validation",
+        "series"
+    ],
+    "389": [
+        "apache spark, spark sql, performance, tuning, tpc-ds"
+    ],
+    "390": [
+        "ai",
+        "ibm watson studio",
+        "machine learning",
+        "data preparation",
+        "model lifecycle management"
+    ],
+    "391": [
+        "updated",
+        "database",
+        "adaptors",
+        "engineering",
+        "get_started"
+    ],
+    "392": [
+        "bluemix",
+        "cloud deployment pipelines",
+        "git repository",
+        "automation",
+        "ibm watson data lab"
+    ],
+    "393": [
+        "cloudant, envoy, authentication, passportjs, pouchdb"
+    ],
+    "394": [
+        "cloudant",
+        "database",
+        "developers",
+        "ibm",
+        "tutorial"
+    ],
+    "395": [
+        "data science",
+        "ibm watson",
+        "amazon emr",
+        "notebooks",
+        "cluster management"
+    ],
+    "396": [
+        "customer",
+        "industry",
+        "helping",
+        "educational organizations",
+        "innovate"
+    ],
+    "397": [
+        "amy",
+        "tai",
+        "princeton university",
+        "datastore",
+        "rethinking/indexing data stores"
+    ],
+    "398": [
+        "homepage_follow",
+        "apache_spark",
+        "rest_api",
+        "data_science",
+        "relational_database"
+    ],
+    "399": [
+        "1. probabilistic",
+        "2. us presidential election",
+        "3. predicting",
+        "4. machine learning",
+        "5. electoral college"
+    ],
+    "400": [
+        "data science",
+        "amazon s3",
+        "rstudio",
+        "sparklyr",
+        "dataframe"
+    ],
+    "401": [
+        "ken",
+        "rabbitmq",
+        "amqp",
+        "nodejs",
+        "rabbot"
+    ],
+    "402": [
+        "metrics",
+        "data scientist",
+        "tips",
+        "postgresql",
+        "median calculation"
+    ],
+    "403": [
+        "use",
+        "spark streaming",
+        "ibm watson",
+        "sentiment analysis",
+        "twitter trend"
+    ],
+    "404": [
+        "spark configuration",
+        "data science",
+        "ibm watson",
+        "machine learning",
+        "data platform"
+    ],
+    "405": [
+        "postgresql",
+        "window function",
+        "window frame",
+        "understanding",
+        "tutorial"
+    ],
+    "406": [
+        "machine learning",
+        "predictive analytics",
+        "data science",
+        "big data",
+        "ibm watson"
+    ],
+    "407": [
+        "cloudant",
+        "database",
+        "nosql",
+        "video tutorial",
+        "get started"
+    ],
+    "408": [
+        "compose",
+        "elasticsearch",
+        "rabbitmq",
+        "deployment",
+        "let's encrypt"
+    ],
+    "409": [
+        "data science",
+        "github project control",
+        "dsx (data science experience)",
+        "jupyter notebook",
+        "ibm watson data platform"
+    ],
+    "410": [
+        "deploy",
+        "new",
+        "rethinkdb",
+        "user authentication",
+        "update"
+    ],
+    "411": [
+        "systemml",
+        "spark",
+        "machine_learning",
+        "big_data",
+        "apache_systemml"
+    ],
+    "412": [
+        "machine learning",
+        "software development",
+        "defect verification",
+        "continuous learning system",
+        "data science experience"
+    ],
+    "413": [
+        "happy",
+        "announce",
+        "offline camp",
+        "bocoup",
+        "friend"
+    ],
+    "414": [
+        "cloudant",
+        "replication",
+        "openwhisk",
+        "data movement",
+        "serverless"
+    ],
+    "415": [
+        "airbnb, engineering, data science, machine learning, productionization"
+    ],
+    "416": [
+        "short",
+        "video",
+        "maker palette",
+        "ibm data science experience",
+        "productivity"
+    ],
+    "417": [
+        "video",
+        "overview",
+        "ibm",
+        "data catalog",
+        "watson"
+    ],
+    "418": [
+        "latest",
+        "postgresql",
+        "backup",
+        "pros and cons",
+        "robert wysocki"
+    ],
+    "419": [
+        "cloudant",
+        "geospatial",
+        "nearest neighbor",
+        "query",
+        "knn"
+    ],
+    "420": [
+        "- apache spark",
+        "- community projects",
+        "- caching tables",
+        "- spark sql",
+        "- performance improvement"
+    ],
+    "421": [
+        "cognitive computing",
+        "ibm watson",
+        "sxsw",
+        "chatbot",
+        "event concierge"
+    ],
+    "422": [
+        "visualization",
+        "styling",
+        "axes",
+        "interactivity",
+        "installation"
+    ],
+    "423": [
+        "web_application",
+        "real_time",
+        "web_browser",
+        "simple_notification",
+        "npm_module"
+    ],
+    "424": [
+        "watch",
+        "create",
+        "table",
+        "ibm",
+        "dashdb"
+    ],
+    "425": [
+        "gnuplot",
+        "interactive graphing",
+        "data retrieval",
+        "scripting",
+        "data manipulation"
+    ],
+    "426": [
+        "short",
+        "guide",
+        "feature",
+        "python",
+        "data"
+    ],
+    "427": [
+        "data governance",
+        "ibm data catalog",
+        "data analysis",
+        "watson data platform",
+        "data science"
+    ],
+    "428": [
+        "- ibm",
+        "- data science",
+        "- experience",
+        "- collaboration",
+        "- modeling"
+    ],
+    "429": [
+        "use",
+        "relational",
+        "databases"
+    ],
+    "430": [
+        "david",
+        "taieb",
+        "jorge casta\u00f1\u00f3n",
+        "apache spark",
+        "flight delay prediction"
+    ],
+    "431": [
+        "power",
+        "software",
+        "accessibility",
+        "dronedeploy",
+        "productivity"
+    ],
+    "432": [
+        "learn",
+        "couchdb",
+        "distributed",
+        "cluster",
+        "read_write"
+    ],
+    "433": [
+        "janusgraph, gremlin, chatbot, graph databases, watson platform."
+    ],
+    "434": [
+        "conquer",
+        "data",
+        "layer",
+        "alec summers",
+        "cto"
+    ],
+    "435": [
+        "build",
+        "python",
+        "data portal",
+        "ibm",
+        "object storage"
+    ],
+    "436": [
+        "building",
+        "ohlc",
+        "data",
+        "postgresql",
+        "finance"
+    ],
+    "437": [
+        "- ibm",
+        "- watson",
+        "- machine learning",
+        "- wml",
+        "- bluemix"
+    ],
+    "438": [
+        "database",
+        "changes",
+        "search",
+        "indexes",
+        "faceted search"
+    ],
+    "439": [
+        "redis",
+        "databases",
+        "cloud",
+        "key-value store",
+        "performance"
+    ],
+    "440": [
+        "week",
+        "news",
+        "data science",
+        "big data",
+        "january"
+    ],
+    "441": [
+        "microservices",
+        "streaming analytics",
+        "metrics collector",
+        "pubsub",
+        "data storage"
+    ],
+    "442": [
+        "cloudant",
+        "query",
+        "declarative",
+        "index",
+        "database"
+    ],
+    "443": [
+        "video",
+        "show",
+        "load",
+        "db2 warehouse",
+        "cloud data"
+    ],
+    "444": [
+        "declarative",
+        "machine learning",
+        "big data",
+        "data scientist",
+        "apache systemml"
+    ],
+    "445": [
+        "marketing",
+        "technology",
+        "data layer",
+        "companies",
+        "composition"
+    ],
+    "446": [
+        "data refinery",
+        "ibm watson",
+        "self-service",
+        "data preparation",
+        "data connectors"
+    ],
+    "447": [
+        "queues",
+        "pubsub",
+        "microservices",
+        "rabbitmq",
+        "apache kafka"
+    ],
+    "448": [
+        "week",
+        "news",
+        "data science",
+        "big data",
+        "april"
+    ],
+    "449": [
+        "- mysql",
+        "- indexing",
+        "- virtual columns",
+        "- json documents",
+        "- game player statistics"
+    ],
+    "450": [
+        "north carolina, hb2, inclusivity, diversity, developer community"
+    ],
+    "451": [
+        "video",
+        "database",
+        "permissions",
+        "cloudant",
+        "show"
+    ],
+    "452": [
+        "compose",
+        "multi-datacenter deployment",
+        "data privacy laws",
+        "database provider",
+        "location diversity"
+    ],
+    "453": [
+        "node.js",
+        "ibm graph",
+        "rest api",
+        "database",
+        "wrapper library"
+    ],
+    "454": [
+        "modifying",
+        "database",
+        "data",
+        "design",
+        "query"
+    ],
+    "455": [
+        "machine learning",
+        "data analytics",
+        "ibm",
+        "data catalog",
+        "enterprise"
+    ],
+    "456": [
+        "bluemix",
+        "object storage",
+        "region support",
+        "precipitation analysis",
+        "sample notebook"
+    ],
+    "457": [
+        "- compose",
+        "- dbaas",
+        "- ibm bluemix",
+        "- getting started",
+        "- cloud platform"
+    ],
+    "458": [
+        "api",
+        "developer experience",
+        "php tek talk",
+        "documentation",
+        "user perspective"
+    ],
+    "459": [
+        "commandline_tool",
+        "best_practice",
+        "web_development",
+        "professional_standard",
+        "backup_database"
+    ],
+    "460": [
+        "every",
+        "two",
+        "week",
+        "data science",
+        "web picks"
+    ],
+    "461": [
+        "big data",
+        "data science",
+        "ibm watson",
+        "machine learning",
+        "behavioral analytics"
+    ],
+    "462": [
+        "engineering",
+        "algorithms",
+        "nba",
+        "predictions",
+        "statistical model"
+    ],
+    "463": [
+        "learn",
+        "use",
+        "spark",
+        "large amount",
+        "data"
+    ],
+    "464": [
+        "ibm",
+        "data science experience",
+        "anomaly detection",
+        "jupyter notebook",
+        "iot"
+    ],
+    "465": [
+        "artificial",
+        "neural",
+        "network",
+        "algorithm",
+        "prediction"
+    ],
+    "466": [
+        "elasticsearch",
+        "data browser",
+        "deployment",
+        "api access",
+        "compose"
+    ],
+    "467": [
+        "- shapefiles",
+        "- conversion",
+        "- sql",
+        "- geojson",
+        "- databases"
+    ],
+    "468": [
+        "hadoop",
+        "big data",
+        "analytics",
+        "mapreduce",
+        "sql"
+    ],
+    "469": [
+        "learn",
+        "connect",
+        "dashdb",
+        "data warehouse",
+        "cloud"
+    ],
+    "470": [
+        "ibm",
+        "streaming analytics",
+        "python support",
+        "cloud application",
+        "rest api"
+    ],
+    "471": [
+        "nodejs",
+        "cloudant",
+        "javascript",
+        "asynchronous programming",
+        "couchapp"
+    ],
+    "472": [
+        "cloudant",
+        "secondary index",
+        "advanced technique",
+        "video tutorial",
+        "learning center"
+    ],
+    "473": [
+        "machine",
+        "learning",
+        "artificial intelligence",
+        "self-driving car",
+        "apache spark"
+    ],
+    "474": [
+        "video",
+        "ibm",
+        "data science",
+        "github",
+        "connect"
+    ],
+    "475": [
+        "consulting",
+        "machine learning",
+        "gradient boosting",
+        "regression tree",
+        "xgboost"
+    ],
+    "476": [
+        "postgresql",
+        "compose",
+        "deployment",
+        "performance",
+        "extensions"
+    ],
+    "477": [
+        "markdown",
+        "jupyter notebooks",
+        "formatting",
+        "data science",
+        "tips"
+    ],
+    "478": [
+        "bluemix",
+        "dashdb",
+        "ruby",
+        "business intelligence",
+        "analytics"
+    ],
+    "479": [
+        "drowning",
+        "data cataloging",
+        "internal and external data sources",
+        "data scientist",
+        "data catalog"
+    ],
+    "480": [
+        "overview",
+        "exciting",
+        "highlight",
+        "research",
+        "optimization"
+    ],
+    "481": [
+        "norman",
+        "barker",
+        "chris",
+        "glew",
+        "geospatial"
+    ],
+    "482": [
+        "predict",
+        "customer",
+        "churn",
+        "deep learning",
+        "neural network"
+    ],
+    "483": [
+        "see",
+        "evaluate",
+        "convert",
+        "ddl",
+        "sql"
+    ],
+    "484": [
+        "running",
+        "cloud",
+        "resource",
+        "enterprise",
+        "bluemix"
+    ],
+    "485": [
+        "article",
+        "designing",
+        "complex",
+        "trading",
+        "strategy"
+    ],
+    "486": [
+        "sparkr",
+        "distributed",
+        "data frame",
+        "structured data processing",
+        "spark"
+    ],
+    "487": [
+        "couchdb",
+        "php",
+        "guzzle",
+        "document database",
+        "http interface"
+    ],
+    "488": [
+        "elasticsearch",
+        "nodejs",
+        "nested fields",
+        "query",
+        "getting started"
+    ],
+    "489": [
+        "amy",
+        "unruh",
+        "cloud",
+        "spanner",
+        "scalable"
+    ],
+    "490": [
+        "hoodie",
+        "ibm bluemix",
+        "web apps",
+        "offline first",
+        "developer advocate"
+    ],
+    "491": [
+        "week",
+        "news",
+        "data science",
+        "big data",
+        "week_news"
+    ],
+    "492": [
+        "interesting",
+        "data",
+        "science",
+        "link",
+        "web"
+    ],
+    "493": [
+        "learning_paths",
+        "artificial_intelligence",
+        "big_data",
+        "medicine",
+        "data_scientist"
+    ],
+    "494": [
+        "python",
+        "loops",
+        "syntax",
+        "logic",
+        "best practice"
+    ],
+    "495": [
+        "starting",
+        "field",
+        "ml",
+        "algorithms",
+        "beginners"
+    ],
+    "496": [
+        "serverless",
+        "openwhisk",
+        "cloudant",
+        "web application",
+        "petition system"
+    ],
+    "497": [
+        "etcd",
+        "backup",
+        "restore",
+        "database",
+        "configuration"
+    ],
+    "498": [
+        "find",
+        "use",
+        "command line",
+        "deployment",
+        "bach"
+    ],
+    "499": [
+        "discover",
+        "cost-effective visualization",
+        "real-world use case",
+        "data scientist",
+        "specific data set"
+    ],
+    "500": [
+        "ai",
+        "machine learning",
+        "deep learning",
+        "difference",
+        "terminology"
+    ],
+    "501": [
+        "ibm",
+        "object storage",
+        "data management",
+        "access control",
+        "backup container"
+    ],
+    "502": [
+        "big data",
+        "data science",
+        "machine learning",
+        "programming languages",
+        "upcoming events"
+    ],
+    "503": [
+        "mongodb",
+        "java",
+        "ssl",
+        "connecting",
+        "compose"
+    ],
+    "504": [
+        "data science",
+        "big data",
+        "machine learning",
+        "analytics",
+        "event"
+    ],
+    "505": [
+        "- connection pooling",
+        "- mongodb",
+        "- performance improvement",
+        "- deployment",
+        "- proper use."
+    ],
+    "506": [
+        "creating",
+        "custom",
+        "email",
+        "server",
+        "postal"
+    ],
+    "507": [
+        "watch",
+        "sql-based report",
+        "cloudant json data",
+        "dashdb",
+        "embeddable reporting service"
+    ],
+    "508": [
+        "python",
+        "data analysis",
+        "portfolio theory",
+        "investment analysis",
+        "pandas"
+    ],
+    "509": [
+        "may",
+        "graph database",
+        "concept",
+        "introduction",
+        "application"
+    ],
+    "510": [
+        "week",
+        "data",
+        "science",
+        "articles",
+        "managing"
+    ],
+    "511": [
+        "video",
+        "python",
+        "flask",
+        "machine learning",
+        "data science"
+    ],
+    "512": [
+        "kaggle",
+        "predictive modelling",
+        "ibm bluemix",
+        "dashdb",
+        "in-database analytics"
+    ],
+    "513": [
+        "cloudant",
+        "lucene",
+        "search index",
+        "query syntax",
+        "faceted search"
+    ],
+    "514": [
+        "eventual consistency",
+        "distributed system",
+        "cloudant",
+        "conflicts",
+        "couchdb"
+    ],
+    "515": [
+        "home",
+        "community",
+        "projects",
+        "batch stateless design",
+        "apache spark streaming"
+    ],
+    "516": [
+        "csv import, couchdb, command line, npm install, data management"
+    ],
+    "517": [
+        "video",
+        "data shaping",
+        "ibm",
+        "quick start",
+        "local data file"
+    ],
+    "518": [
+        "building",
+        "data",
+        "warehouse",
+        "cloud",
+        "ibm"
+    ],
+    "519": [
+        "mobile updates",
+        "geospatial functionality",
+        "cloudant database",
+        "offline maintenance",
+        "field work app"
+    ],
+    "520": [
+        "redis",
+        "lua",
+        "debugging",
+        "debugger",
+        "quick"
+    ],
+    "521": [
+        "data science",
+        "watson",
+        "analytics",
+        "collaboration",
+        "ibm"
+    ],
+    "522": [
+        "share",
+        "pixiedust",
+        "magic",
+        "packaging",
+        "distributing"
+    ],
+    "523": [
+        "microservices",
+        "scaling",
+        "web application",
+        "ibm",
+        "message hub"
+    ],
+    "524": [
+        "data science",
+        "ibm",
+        "open source",
+        "machine learning",
+        "analytics platform"
+    ],
+    "525": [
+        "shiny",
+        "tutorial",
+        "cheat sheet",
+        "video",
+        "training"
+    ],
+    "526": [
+        "compose",
+        "database",
+        "demonstration",
+        "mongodb",
+        "postgresql"
+    ],
+    "527": [
+        "thinking",
+        "moving",
+        "etcd",
+        "howto",
+        "migrating"
+    ],
+    "528": [
+        "jupyter notebook",
+        "python",
+        "virtualenv",
+        "joblib",
+        "reproducible research"
+    ],
+    "529": [
+        "video",
+        "data catalog",
+        "ibm data refinery",
+        "project creation",
+        "data association"
+    ],
+    "530": [
+        "nifi",
+        "data flow tool",
+        "customizable class processor",
+        "mongodb integration",
+        "nifi extension tips"
+    ],
+    "531": [
+        "oscon",
+        "open source",
+        "datastores",
+        "talk",
+        "review"
+    ],
+    "532": [
+        "deep learning",
+        "gradient descent",
+        "regularization",
+        "empirical analysis",
+        "deep neural networks"
+    ],
+    "533": [
+        "python",
+        "data visualization",
+        "pixiedust",
+        "ibm watson",
+        "data science"
+    ],
+    "534": [
+        "dplyr",
+        "release",
+        "improvement",
+        "bug fix",
+        "community"
+    ],
+    "535": [
+        "mobile",
+        "internet of things (iot)",
+        "use case",
+        "offline first",
+        "pouchdb"
+    ],
+    "536": [
+        "bluemix",
+        "embeddable reporting service",
+        "dashdb",
+        "mongolab",
+        "pedometer app"
+    ],
+    "537": [
+        "run",
+        "postgresql",
+        "compose",
+        "postgis",
+        "ha"
+    ],
+    "538": [
+        "learn",
+        "set",
+        "cloudant",
+        "replication",
+        "job"
+    ],
+    "539": [
+        "- data",
+        "- cloud",
+        "- warehousing",
+        "- oracle",
+        "- dashdb"
+    ],
+    "540": [
+        "sentiment",
+        "analysis",
+        "reddit ama",
+        "dashdb",
+        "data pipeline"
+    ],
+    "541": [
+        "- datalayer",
+        "- conference",
+        "- video",
+        "- state",
+        "- containers"
+    ],
+    "542": [
+        "python",
+        "getting started",
+        "book",
+        "application development",
+        "data scientist"
+    ],
+    "543": [
+        "geospatial",
+        "ibm",
+        "esri",
+        "koop",
+        "open data"
+    ],
+    "544": [
+        "ggplot2",
+        "package",
+        "data visualization",
+        "grammar",
+        "cheat sheet"
+    ],
+    "545": [
+        "kubernetes",
+        "containers",
+        "bluemix",
+        "deployment",
+        "developer"
+    ],
+    "546": [
+        "openxc",
+        "telemetry data",
+        "real-time",
+        "traffic congestion",
+        "cloudant"
+    ],
+    "547": [
+        "data science",
+        "trust",
+        "transparency",
+        "team building",
+        "continuous improvement"
+    ],
+    "548": [
+        "video",
+        "compose",
+        "datalayer",
+        "conference",
+        "scylla"
+    ],
+    "549": [
+        "machine learning",
+        "data science",
+        "artificial intelligence",
+        "ibm watson",
+        "predictive analytics"
+    ],
+    "550": [
+        "nodered",
+        "signup forms",
+        "mongodb",
+        "validation",
+        "email address"
+    ],
+    "551": [
+        "talk",
+        "bootstrapped startup",
+        "using compose datalayer",
+        "conference",
+        "longtime user"
+    ],
+    "552": [
+        "offlinefirst",
+        "ios",
+        "apps",
+        "swift",
+        "user interface"
+    ],
+    "553": [
+        "data science",
+        "machine learning",
+        "algorithms",
+        "intuition",
+        "task"
+    ],
+    "554": [
+        "week",
+        "rethinkdb",
+        "redis",
+        "postgresql",
+        "future"
+    ],
+    "555": [
+        "watch",
+        "video",
+        "build",
+        "naive bayes",
+        "machine learning"
+    ],
+    "556": [
+        "cloudant",
+        "nodejs",
+        "data manipulation",
+        "json document",
+        "silverlining library"
+    ],
+    "557": [
+        "working",
+        "data",
+        "engineering",
+        "analysis",
+        "nfl"
+    ],
+    "558": [
+        "mongo",
+        "metrics",
+        "data scientist",
+        "compose mongodb",
+        "collaboration"
+    ],
+    "559": [
+        "week",
+        "news",
+        "data science",
+        "big data",
+        "april"
+    ],
+    "560": [
+        "cloudant",
+        "apache spark",
+        "ibm analytics",
+        "scala notebook",
+        "data replication"
+    ],
+    "561": [
+        "video",
+        "cloudant",
+        "curl",
+        "database",
+        "preauthentication"
+    ],
+    "562": [
+        "learn",
+        "use",
+        "bluemix",
+        "data connect",
+        "cloud"
+    ],
+    "563": [
+        "rstudio",
+        "ide",
+        "cheat sheet",
+        "keyboard shortcuts",
+        "integrated development environment"
+    ],
+    "564": [
+        "datatables",
+        "htmlwidgets",
+        "javascript",
+        "interface",
+        "packages"
+    ],
+    "565": [
+        "api",
+        "command line",
+        "compose",
+        "feature",
+        "developer"
+    ],
+    "566": [
+        "probability distribution",
+        "central limit theorem",
+        "gaussian distribution",
+        "student t-distribution",
+        "machine learning"
+    ],
+    "567": [
+        "data governance",
+        "watson data platform",
+        "data catalog",
+        "enterprise catalog",
+        "data management"
+    ],
+    "568": [
+        "- ios app development",
+        "- ibm bluemix platform",
+        "- mobilefirst platform",
+        "- cloud deployment",
+        "- push notifications in ios app"
+    ],
+    "569": [
+        "asked",
+        "five",
+        "social",
+        "influencers",
+        "data"
+    ],
+    "570": [
+        "closet shelving system",
+        "3d visualization tool",
+        "organized living",
+        "customer differential",
+        "case study"
+    ],
+    "571": [
+        "node",
+        "elasticsearch",
+        "deployment",
+        "indexing",
+        "text search"
+    ],
+    "572": [
+        "offline first",
+        "progressive enhancement",
+        "data platform",
+        "mobile apps",
+        "web apps"
+    ],
+    "573": [
+        "node.js",
+        "data extraction",
+        "microsoft azure",
+        "documentdbexport",
+        "couchimport"
+    ],
+    "574": [
+        "elasticsearch",
+        "nodejs",
+        "web application",
+        "ibm bluemix",
+        "postcode lookup"
+    ],
+    "575": [
+        "lodgiq",
+        "cto",
+        "somnath",
+        "banerjee",
+        "data science"
+    ],
+    "576": [
+        "particle",
+        "physics",
+        "offline first",
+        "cloudant",
+        "database"
+    ],
+    "577": [
+        "video",
+        "cloudant",
+        "learning",
+        "tutorial",
+        "api"
+    ],
+    "578": [
+        "datadriven",
+        "shopper",
+        "insights",
+        "open data set",
+        "census"
+    ],
+    "579": [
+        "consulting",
+        "diversity",
+        "database",
+        "management",
+        "services"
+    ],
+    "580": [
+        "transporter",
+        "mongodb",
+        "synchronization",
+        "configuration",
+        "latest generation"
+    ],
+    "581": [
+        "geofile",
+        "geographical data",
+        "osm data",
+        "geojson",
+        "mongodb deployment"
+    ],
+    "582": [
+        "tibble",
+        "data frame",
+        "naming scheme",
+        "output tweaks",
+        "rstudio blog"
+    ],
+    "583": [
+        "data analytics",
+        "chief data officers",
+        "data governance",
+        "data catalog",
+        "ibm bluemix"
+    ],
+    "584": [
+        "big data",
+        "artificial intelligence",
+        "machine learning",
+        "ibm watson",
+        "data science"
+    ],
+    "585": [
+        "learning",
+        "tidyverse",
+        "package",
+        "project",
+        "mapping"
+    ],
+    "586": [
+        "data_science",
+        "machine_learning",
+        "human_computation",
+        "algorithm",
+        "building_teams"
+    ],
+    "587": [
+        "offlinefirst",
+        "ios",
+        "apps",
+        "swift",
+        "cloud syncing"
+    ],
+    "588": [
+        "announcing",
+        "tidyr",
+        "tidy data",
+        "manipulate",
+        "visualise"
+    ],
+    "589": [
+        "agile",
+        "project tracking",
+        "database",
+        "scrum",
+        "collaboration"
+    ],
+    "590": [
+        "icanmakeitbetter",
+        "mix",
+        "elixir",
+        "compose",
+        "mongodb"
+    ],
+    "591": [
+        "spending",
+        "distributed data",
+        "cloudant",
+        "nosql database",
+        "life science software"
+    ],
+    "592": [
+        "combine",
+        "apache",
+        "spark",
+        "cloud",
+        "analytics"
+    ],
+    "593": [
+        "data science",
+        "ibm",
+        "object storage",
+        "apache spark",
+        "command line"
+    ],
+    "594": [
+        "learn",
+        "analyze",
+        "new york city",
+        "traffic collision data",
+        "python notebook ibmanalytics apache spark"
+    ],
+    "595": [
+        "apache spark",
+        "ibm bluemix",
+        "cloudant",
+        "dashdb",
+        "data analysis"
+    ],
+    "596": [
+        "graham",
+        "integration testing",
+        "live database",
+        "compose/managed deployment",
+        "real databases"
+    ],
+    "597": [
+        "number",
+        "datatypes",
+        "postgresql",
+        "array",
+        "datatype"
+    ],
+    "598": [
+        "elasticsearch",
+        "kibana",
+        "server",
+        "plugin architecture",
+        "central server"
+    ],
+    "599": [
+        "diving",
+        "data",
+        "machine learning",
+        "random forest",
+        "feature contribution"
+    ],
+    "600": [
+        "data science",
+        "ibm analytics",
+        "apache spark",
+        "rstudio ide",
+        "machine learning"
+    ],
+    "601": [
+        "api",
+        "key management",
+        "scylladb",
+        "building platform",
+        "hyver"
+    ],
+    "602": [
+        "introduce",
+        "odoo",
+        "open source",
+        "erp system",
+        "ibm bluemix"
+    ],
+    "603": [
+        "couchdb",
+        "cloudant",
+        "javascript",
+        "api",
+        "abstraction"
+    ],
+    "604": [
+        "big data",
+        "confidence",
+        "context",
+        "choice",
+        "information governance"
+    ],
+    "605": [
+        "compose",
+        "opensourced",
+        "transporter",
+        "mongodb",
+        "data"
+    ],
+    "606": [
+        "data",
+        "science",
+        "web",
+        "briefings",
+        "newsletter"
+    ],
+    "607": [
+        "recommendation system",
+        "big data",
+        "collaborative filtering",
+        "machine learning",
+        "data scientist"
+    ],
+    "608": [
+        "compose",
+        "quick",
+        "jira",
+        "repository",
+        "mongodb"
+    ],
+    "609": [
+        "bayesian",
+        "method",
+        "parameter",
+        "linear regression",
+        "model"
+    ],
+    "610": [
+        "jupyter notebook",
+        "data science",
+        "modes",
+        "keyboard shortcuts",
+        "code completion"
+    ],
+    "611": [
+        "openwhisk",
+        "serverless",
+        "cron",
+        "trigger",
+        "action"
+    ],
+    "612": [
+        "block",
+        "chain",
+        "ethereum",
+        "smart contracts",
+        "distributed consensus"
+    ],
+    "613": [
+        "ibm",
+        "graph",
+        "java",
+        "database",
+        "open source"
+    ],
+    "614": [
+        "readmeio",
+        "platform",
+        "technical documentation",
+        "compose enterprise",
+        "customer"
+    ],
+    "615": [
+        "offlinefirst",
+        "apps",
+        "cloudant sync",
+        "data storage",
+        "mobile apps"
+    ],
+    "616": [
+        "machine learning",
+        "model sync",
+        "data features",
+        "feedback loop",
+        "concept drift"
+    ],
+    "617": [
+        "pixiedust",
+        "time series",
+        "data science",
+        "jupyter notebooks",
+        "web apps"
+    ],
+    "618": [
+        "machine learning",
+        "powerful field",
+        "algorithm knowledge",
+        "ai",
+        "explainability"
+    ],
+    "619": [
+        "going",
+        "connecting",
+        "rethinkdb",
+        "elixir",
+        "pitfalls"
+    ],
+    "620": [
+        "video",
+        "introduces",
+        "different",
+        "type",
+        "index"
+    ],
+    "621": [
+        "postgresql",
+        "cloud-based offering",
+        "data integrity",
+        "sql-compliant rdbms",
+        "array data type"
+    ],
+    "622": [
+        "htmlwidgets",
+        "javascript",
+        "data visualization",
+        "packages",
+        "shiny"
+    ],
+    "623": [
+        "redis",
+        "database",
+        "adhoc query",
+        "redis data browser",
+        "web development"
+    ],
+    "624": [
+        "cloudant",
+        "nosql",
+        "sql",
+        "migration",
+        "webinar"
+    ],
+    "625": [
+        "chatbots",
+        "graph database",
+        "ibm watson",
+        "web development",
+        "data structures"
+    ],
+    "626": [
+        "video",
+        "ibm",
+        "data science",
+        "database",
+        "cloud"
+    ],
+    "627": [
+        "- compose",
+        "- redis",
+        "- migration",
+        "- data import",
+        "- deployment"
+    ],
+    "628": [
+        "- cloudantdashdb",
+        "- integration",
+        "- beta",
+        "- dashdb",
+        "- data warehouse"
+    ],
+    "629": [
+        "video",
+        "cloudant",
+        "database",
+        "dashboard",
+        "tutorial"
+    ],
+    "630": [
+        "mongodb",
+        "desktop ui",
+        "robomongo",
+        "studio 3t",
+        "composing mongodb"
+    ],
+    "631": [
+        "story",
+        "week",
+        "data",
+        "science",
+        "big data"
+    ],
+    "632": [
+        "hyperparameter optimization",
+        "apache spark",
+        "machine learning",
+        "big data",
+        "data scientist"
+    ],
+    "633": [
+        "learn",
+        "manage",
+        "replication job",
+        "cloudant",
+        "status check"
+    ],
+    "634": [
+        "db2 warehouse",
+        "data science",
+        "python",
+        "spark",
+        "ibm"
+    ],
+    "635": [
+        "ux",
+        "improvements",
+        "cloudant",
+        "data replication",
+        "dashboard development"
+    ],
+    "636": [
+        "stack overflow, data scientist, one year anniversary, tech company, career change."
+    ],
+    "637": [
+        "see",
+        "create",
+        "new",
+        "dashdb instance",
+        "populate"
+    ],
+    "638": [
+        "weighted",
+        "average",
+        "calculating",
+        "metrics",
+        "postgresql"
+    ],
+    "639": [
+        "deployment",
+        "tracker",
+        "sample apps",
+        "ibm cloud data services",
+        "bluemix"
+    ],
+    "640": [
+        "postgresql",
+        "security",
+        "row-level",
+        "mechanism",
+        "database"
+    ],
+    "641": [
+        "explore",
+        "highly effective",
+        "deep learning",
+        "sentiment analysis",
+        "tensorflow lstm network"
+    ],
+    "642": [
+        "persisting",
+        "data",
+        "smarter",
+        "chatbot",
+        "watson"
+    ],
+    "643": [
+        "analyze",
+        "data",
+        "ibm",
+        "biginsights",
+        "cloud"
+    ],
+    "644": [
+        "get",
+        "started",
+        "building",
+        "machine",
+        "learning"
+    ],
+    "645": [
+        "logistic",
+        "regression",
+        "model",
+        "categorical",
+        "variable"
+    ],
+    "646": [
+        "game of thrones",
+        "cloudant",
+        "nodjes",
+        "faceted search",
+        "importing data"
+    ],
+    "647": [
+        "- mahout",
+        "- apache spark",
+        "- linear algebra",
+        "- machine learning",
+        "- big data"
+    ],
+    "648": [
+        "enterprise",
+        "compose",
+        "managed host",
+        "security",
+        "backup"
+    ],
+    "649": [
+        "javascript notebooks",
+        "cloudant database",
+        "data analysis",
+        "runkit package",
+        "web development"
+    ],
+    "650": [
+        "mongodb",
+        "2dsphere index",
+        "geospatial queries",
+        "geojson",
+        "radius"
+    ],
+    "651": [
+        "analyzing",
+        "streaming",
+        "data",
+        "kafka",
+        "watson data platform"
+    ],
+    "652": [
+        "nifi",
+        "data",
+        "moving",
+        "mongodb",
+        "synchronization"
+    ],
+    "653": [
+        "video",
+        "create",
+        "connection",
+        "data source",
+        "ibm data refinery"
+    ],
+    "654": [
+        "compose",
+        "mongodb",
+        "ransomware",
+        "security",
+        "data protection"
+    ],
+    "655": [
+        "watch",
+        "video",
+        "ibm",
+        "data science",
+        "watson machine learning"
+    ],
+    "656": [
+        "recent",
+        "achievement",
+        "deep learning",
+        "future",
+        "development"
+    ],
+    "657": [
+        "compose",
+        "database",
+        "utility",
+        "platform",
+        "managed"
+    ],
+    "658": [
+        "automating",
+        "web analytics",
+        "python",
+        "google analytics",
+        "visualization"
+    ],
+    "659": [
+        "data catalog",
+        "data governance",
+        "watson data platform",
+        "data refinery",
+        "enterprise metadata repository"
+    ],
+    "660": [
+        "learn",
+        "set",
+        "cloudant",
+        "database",
+        "replication"
+    ],
+    "661": [
+        "kdnuggets",
+        "data science",
+        "interview questions",
+        "fake data detection",
+        "regularization"
+    ],
+    "662": [
+        "video",
+        "deep learning",
+        "ibm watson",
+        "cifar10 dataset",
+        "neural network modeler"
+    ],
+    "663": [
+        "data science",
+        "user experience",
+        "ibm watson data platform",
+        "tool design",
+        "continuous refinement"
+    ],
+    "664": [
+        "chris",
+        "postgresql",
+        "partial indexing",
+        "query performance",
+        "datalayer conference"
+    ],
+    "665": [
+        "data science",
+        "collaboration",
+        "notebook",
+        "data catalog",
+        "watson data platform"
+    ],
+    "666": [
+        "- cloud",
+        "- data integration",
+        "- dashdb",
+        "- informatica",
+        "- synchronization"
+    ],
+    "667": [
+        "overview",
+        "imitation learning aka behavioral cloning",
+        "machine learning",
+        "tensorflow",
+        "openai gym"
+    ],
+    "668": [
+        "shiny",
+        "data science",
+        "communication",
+        "web apps",
+        "ibm watson data platform"
+    ],
+    "669": [
+        "free",
+        "data",
+        "sources",
+        "government",
+        "crime"
+    ],
+    "670": [
+        "real-time data streams",
+        "streaming analytics",
+        "aggregation operator",
+        "streams designer",
+        "window size and type"
+    ],
+    "671": [
+        "cloudant",
+        "development",
+        "library",
+        "programming language",
+        "open source"
+    ],
+    "672": [
+        "postgres",
+        "redis",
+        "database browsing",
+        "sql",
+        "key-value database"
+    ],
+    "673": [
+        "homepage_follow",
+        "spss_modeler",
+        "data_science",
+        "machine_learning",
+        "chronic_kidney_disease"
+    ],
+    "674": [
+        "seti institute",
+        "simulated data",
+        "signal classification",
+        "apache spark",
+        "object storage"
+    ],
+    "675": [
+        "rstudio",
+        "webinar",
+        "data frame",
+        "tidyverse",
+        "open source"
+    ],
+    "676": [
+        "cloud",
+        "data",
+        "services",
+        "ios",
+        "library"
+    ],
+    "677": [
+        "devtools",
+        "package",
+        "make_easy",
+        "share_code",
+        "cheat_sheet"
+    ],
+    "678": [
+        "apache spark",
+        "spark sql",
+        "performance",
+        "benchmarking",
+        "sql optimization"
+    ],
+    "679": [
+        "keywords:",
+        "- big data",
+        "- university announcement",
+        "- data science",
+        "- news",
+        "- blog post"
+    ],
+    "680": [
+        "datagovsg",
+        "circle line",
+        "mysterious disruption",
+        "signal interference",
+        "data analysis"
+    ],
+    "681": [
+        "sentiment",
+        "analysis",
+        "twitter",
+        "hashtags",
+        "spark"
+    ],
+    "682": [
+        "data science",
+        "watson data platform",
+        "json loading",
+        "social sharing",
+        "notebooks"
+    ],
+    "683": [
+        "nodered",
+        "cloudant",
+        "nosql",
+        "data warehousing",
+        "bluemix"
+    ],
+    "684": [
+        "rstudio",
+        "flexdashboard",
+        "interactive dashboards",
+        "markdown",
+        "shiny"
+    ],
+    "685": [
+        "watson<br>data api<br>data flows<br>data refinery<br>tutorials"
+    ],
+    "686": [
+        "watson",
+        "machine learning",
+        "ibm",
+        "data science",
+        "spss modeler"
+    ],
+    "687": [
+        "openstreetmap",
+        "cloudant",
+        "data",
+        "geojson",
+        "python"
+    ],
+    "688": [
+        "apache_couchdb",
+        "hoodie",
+        "progressive_web",
+        "offline_first",
+        "ibm_watson_data_lab"
+    ],
+    "689": [
+        "improved",
+        "performance",
+        "redis",
+        "cache",
+        "mode"
+    ],
+    "690": [
+        "faceted search",
+        "web app",
+        "ibm bluemix",
+        "cloudant account",
+        "simple search service"
+    ],
+    "691": [
+        "post",
+        "connect",
+        "compose",
+        "postgresql",
+        "deployment"
+    ],
+    "692": [
+        "data structures",
+        "programming language",
+        "tutorial",
+        "control structures",
+        "reshape package"
+    ],
+    "693": [
+        "spss",
+        "data science experience",
+        "machine learning",
+        "ibm",
+        "collaboration"
+    ],
+    "694": [
+        "dashdb",
+        "python",
+        "raster data",
+        "climate analysis",
+        "visualization"
+    ],
+    "695": [
+        "data science",
+        "object storage",
+        "excel files",
+        "python",
+        "pandas dataframe"
+    ],
+    "696": [
+        "second",
+        "mongodb metrics",
+        "aggregation pipeline",
+        "compute median",
+        "data set"
+    ],
+    "697": [
+        "video",
+        "schema migrations",
+        "online tool",
+        "github",
+        "tom krouper"
+    ],
+    "698": [
+        "chartio",
+        "data warehousing",
+        "stripe",
+        "salesforce",
+        "dashboard"
+    ],
+    "699": [
+        "article",
+        "learn",
+        "calculate",
+        "weighted moving average",
+        "postgresql metrics"
+    ],
+    "700": [
+        "graph",
+        "database",
+        "algorithm",
+        "markov chains",
+        "problem-solving"
+    ],
+    "701": [
+        "missing data",
+        "data exploration",
+        "imputation techniques",
+        "machine learning",
+        "data quality"
+    ],
+    "702": [
+        "ibm",
+        "secure gateway",
+        "cloud data services",
+        "on-premises data server",
+        "bluemix"
+    ],
+    "703": [
+        "tutorial",
+        "web application",
+        "developer",
+        "html",
+        "css"
+    ],
+    "704": [
+        "aginity",
+        "workbench",
+        "free",
+        "ibm",
+        "dashdb"
+    ],
+    "705": [
+        "word2vec",
+        "language",
+        "translation",
+        "problems",
+        "data products"
+    ],
+    "706": [
+        "data science",
+        "big data",
+        "ibm watson",
+        "programming languages",
+        "cloud computing"
+    ],
+    "707": [
+        "cloudant",
+        "apache couchdb",
+        "sandbox",
+        "testing",
+        "cluster"
+    ],
+    "708": [
+        "video",
+        "data set",
+        "ibm",
+        "data science",
+        "public data set"
+    ],
+    "709": [
+        "redis",
+        "geo api",
+        "ha",
+        "in-memory database",
+        "mainstream branch"
+    ],
+    "710": [
+        "gareth",
+        "dwyer",
+        "sqlalchemy",
+        "orm",
+        "postgresql"
+    ],
+    "711": [
+        "crossdatabase",
+        "querying",
+        "postgresql",
+        "postgres_fdw",
+        "compose"
+    ],
+    "712": [
+        "openstreetmap",
+        "data import",
+        "postgresql deployment",
+        "nonconventional data",
+        "hstore column"
+    ],
+    "713": [
+        "postgresql",
+        "user control",
+        "incoming connection limit",
+        "compose web console",
+        "database settings"
+    ],
+    "714": [
+        "big",
+        "crop",
+        "book",
+        "apache spark",
+        "introduction"
+    ],
+    "715": [
+        "new",
+        "artificial intelligence",
+        "adversarial network",
+        "creativity",
+        "originality"
+    ],
+    "716": [
+        "omondi",
+        "campus",
+        "discounts",
+        "securely",
+        "authentication"
+    ],
+    "717": [
+        "learn",
+        "query",
+        "json",
+        "cloudantcouchdb",
+        "array"
+    ],
+    "718": [
+        "screencast",
+        "ecto",
+        "erlang",
+        "elixir",
+        "phoenix"
+    ],
+    "719": [
+        "cloudant",
+        "data migration",
+        "transformation",
+        "tools",
+        "apache couchdb"
+    ],
+    "720": [
+        "data visualization",
+        "data representation",
+        "analytics",
+        "big data",
+        "data science"
+    ],
+    "721": [
+        "apache spark",
+        "machine learning",
+        "big data analytics",
+        "data scientist",
+        "practical application"
+    ],
+    "722": [
+        "visual",
+        "information theory",
+        "probability distribution",
+        "conditional probability",
+        "variable-length code"
+    ],
+    "723": [
+        "1. machine learning",
+        "2. algorithm",
+        "3. supervised learning",
+        "4. unsupervised learning",
+        "5. reinforcement learning"
+    ],
+    "724": [
+        "data science",
+        "artificial intelligence",
+        "deep learning",
+        "machine learning",
+        "nips highlights"
+    ],
+    "725": [
+        "week",
+        "news",
+        "data science",
+        "big data",
+        "march"
+    ],
+    "726": [
+        "kaggle.com",
+        "datasets",
+        "scripts",
+        "navigation",
+        "insight"
+    ],
+    "727": [
+        "numpy",
+        "multidimensional data",
+        "list nesting",
+        "matrix multiplication",
+        "python data science"
+    ],
+    "728": [
+        "chatbot",
+        "data science",
+        "ibm watson",
+        "apache spark",
+        "jupyter notebook"
+    ],
+    "729": [
+        "pixiedust",
+        "data science",
+        "notebook",
+        "visualization",
+        "python"
+    ],
+    "730": [
+        "developing",
+        "ibm",
+        "streams",
+        "python",
+        "streaming analytics service"
+    ],
+    "731": [
+        "bcrypt",
+        "slow hashing",
+        "password protection",
+        "security",
+        "intentional slowness"
+    ],
+    "732": [
+        "data science",
+        "machine learning",
+        "ibm watson data platform",
+        "data visualization",
+        "collaborative ecosystem"
+    ],
+    "733": [
+        "bluemix",
+        "mobile app development",
+        "offline data access",
+        "data replication",
+        "authentication"
+    ],
+    "734": [
+        "omondi",
+        "campus",
+        "discounts",
+        "founder",
+        "rabbitmq"
+    ],
+    "735": [
+        "reinforcement learning",
+        "bias-variance tradeoff",
+        "value estimation",
+        "temporal difference learning",
+        "generalized advantage estimate"
+    ],
+    "736": [
+        "big data",
+        "data science",
+        "learning paths",
+        "courses",
+        "ibm watson"
+    ],
+    "737": [
+        "pouchdb",
+        "json document",
+        "offline-first approach",
+        "client-side web applications",
+        "ibm watson data platform"
+    ],
+    "738": [
+        "microservices",
+        "service registry",
+        "distributed configuration management",
+        "etcd",
+        "javascript tutorial"
+    ],
+    "739": [
+        "store",
+        "result sets",
+        "materialized views",
+        "postgresql",
+        "data processing"
+    ],
+    "740": [
+        "beginner",
+        "data scientists",
+        "advice",
+        "data science",
+        "machine learning"
+    ],
+    "741": [
+        "faceted",
+        "simple search",
+        "api",
+        "game of thrones",
+        "frontend"
+    ],
+    "742": [
+        "bluemix",
+        "nodejs",
+        "cloudant",
+        "deploy",
+        "full stack"
+    ],
+    "743": [
+        "colleague",
+        "cloud",
+        "data",
+        "services",
+        "blogging"
+    ],
+    "744": [
+        "word2vec",
+        "machine learning",
+        "text data",
+        "data science",
+        "ibm watson data platform"
+    ],
+    "745": [
+        "recently",
+        "cto",
+        "scylladb",
+        "cassandra compatible",
+        "approach"
+    ],
+    "746": [
+        "httr",
+        "web apis",
+        "retry function",
+        "bug fix",
+        "rstudio blog"
+    ],
+    "747": [
+        "network",
+        "address",
+        "data",
+        "storing",
+        "postgresql"
+    ],
+    "748": [
+        "geofile",
+        "spatial reference system",
+        "database management",
+        "geographical data transformation",
+        "epsg code"
+    ],
+    "749": [
+        "rainfall",
+        "houston",
+        "mapmaking",
+        "canvas",
+        "visualization"
+    ],
+    "750": [
+        "video",
+        "cloudant",
+        "geospatial",
+        "query",
+        "learning center"
+    ],
+    "751": [
+        "watch",
+        "video",
+        "logistic regression classifier",
+        "metabolic disease",
+        "predictive analytic model"
+    ],
+    "752": [
+        "couchdb, schema, data representation, versioning, data storage"
+    ],
+    "753": [
+        "data security",
+        "jupyter notebooks",
+        "database",
+        "relational data",
+        "ibm watson"
+    ],
+    "754": [
+        "brainwave signals",
+        "web application development",
+        "toy car",
+        "telekinesis",
+        "bluemix services"
+    ],
+    "755": [
+        "part",
+        "cover",
+        "mapping",
+        "elasticsearch",
+        "getting started"
+    ],
+    "756": [
+        "learn",
+        "build",
+        "mobile",
+        "web",
+        "apps"
+    ],
+    "757": [
+        "data science",
+        "ibm",
+        "secure gateway",
+        "on-premise database",
+        "db2 warehouse"
+    ],
+    "758": [
+        "musthave",
+        "skill",
+        "data scientist",
+        "critical role",
+        "data science"
+    ],
+    "759": [
+        "wise",
+        "philosopher",
+        "comedian",
+        "predictive_model",
+        "data_science"
+    ],
+    "760": [
+        "seti",
+        "ibmcloud",
+        "data analysis",
+        "citizen scientist",
+        "object storage"
+    ],
+    "761": [
+        "post",
+        "demo",
+        "variational autoencoders",
+        "kingma et al",
+        "frey face dataset"
+    ],
+    "762": [
+        "machine",
+        "learning",
+        "explained",
+        "minute",
+        "dinesh nirmal"
+    ],
+    "763": [
+        "video",
+        "data analytics",
+        "ibm data science experience (dsx)",
+        "rstudio",
+        "csv data upload"
+    ],
+    "764": [
+        "data science",
+        "machine learning",
+        "python",
+        "data preparation",
+        "tidy data sets"
+    ],
+    "765": [
+        "announcing",
+        "data",
+        "browser",
+        "janusgraph"
+    ],
+    "766": [
+        "data science",
+        "collaboration",
+        "jupyter notebook",
+        "ibm",
+        "big data analytics"
+    ],
+    "767": [
+        "microservices",
+        "rabbitmq",
+        "secure communication",
+        "production",
+        "senecajs"
+    ],
+    "768": [
+        "python",
+        "statement",
+        "condition",
+        "syntax",
+        "data_science"
+    ],
+    "769": [
+        "evolving",
+        "databases",
+        "campus discounts",
+        "founder talk",
+        "powering social feed with elasticsearch"
+    ],
+    "770": [
+        "troubleshooting",
+        "java",
+        "mongodb",
+        "compose",
+        "ssl-enabled"
+    ],
+    "771": [
+        "cloud",
+        "json",
+        "mapreduce",
+        "database",
+        "design document"
+    ],
+    "772": [
+        "help",
+        "sample script",
+        "biginsights",
+        "cloud",
+        "on-premises"
+    ],
+    "773": [
+        "caching",
+        "cloudant",
+        "requests",
+        "cachemachine",
+        "redis"
+    ],
+    "774": [
+        "nodered",
+        "jsonwebtoken",
+        "authentication",
+        "mongodb",
+        "endpoint"
+    ],
+    "775": [
+        "graphql",
+        "postgraphql",
+        "postgresql",
+        "schema",
+        "database connection"
+    ],
+    "776": [
+        "weather",
+        "forecast",
+        "python",
+        "notebook",
+        "apis"
+    ],
+    "777": [
+        "second",
+        "smart",
+        "business",
+        "chatbots",
+        "watson conversation"
+    ],
+    "778": [
+        "video",
+        "provides",
+        "overview",
+        "governance",
+        "feature"
+    ],
+    "779": [
+        "going",
+        "look",
+        "connecting",
+        "application",
+        "compose"
+    ],
+    "780": [
+        "database",
+        "management",
+        "tools",
+        "mysql",
+        "command line"
+    ],
+    "781": [
+        "data",
+        "statistics",
+        "jamesstein estimator",
+        "sample size",
+        "variance"
+    ],
+    "782": [
+        "matplotlib",
+        "data visualization",
+        "python",
+        "pandas",
+        "data science"
+    ],
+    "783": [
+        "rabbitmq",
+        "message broker",
+        "failure handling",
+        "dead letter exchange",
+        "queue setup"
+    ],
+    "784": [
+        "rapid",
+        "change",
+        "data science",
+        "machine learning",
+        "artificial intelligence"
+    ],
+    "785": [
+        "dygraphs",
+        "interactive",
+        "time series",
+        "visualization",
+        "shiny"
+    ],
+    "786": [
+        "latest",
+        "enhancement",
+        "tls/ssl",
+        "certificate",
+        "security"
+    ],
+    "787": [
+        "watch",
+        "use",
+        "ibm",
+        "dashdb",
+        "analytics"
+    ],
+    "788": [
+        "article",
+        "recommendation system",
+        "python",
+        "graphlab library",
+        "recommendation engine"
+    ],
+    "789": [
+        "let's encrypt",
+        "tls/ssl certificate",
+        "elasticsearch",
+        "rabbitmq",
+        "encryption support"
+    ],
+    "790": [
+        "taken",
+        "beta",
+        "label",
+        "messaging",
+        "platform"
+    ],
+    "791": [
+        "survey",
+        "commandline tool",
+        "ibm cloudant",
+        "apache couchdb",
+        "user interface"
+    ],
+    "792": [
+        "need",
+        "restful api",
+        "mongo database",
+        "restheart",
+        "upandrunning"
+    ],
+    "793": [
+        "homepage_follow",
+        "data_science",
+        "data_catalog",
+        "watson_data",
+        "machine_learning"
+    ],
+    "794": [
+        "discus",
+        "issue",
+        "computing",
+        "area",
+        "curve"
+    ],
+    "795": [
+        "python",
+        "data visualization",
+        "altair",
+        "matplotlib",
+        "pandas"
+    ],
+    "796": [
+        "node.js",
+        "dynamodb",
+        "cloudant",
+        "couchdb",
+        "data migration"
+    ],
+    "797": [
+        "simple search service, nodejs, ibm, cloudant, data management"
+    ],
+    "798": [
+        "mysql",
+        "blogging",
+        "hosting",
+        "ibm bluemix",
+        "open source"
+    ],
+    "799": [
+        "cloudant, data visualization, userscript, web development, ibm watson"
+    ],
+    "800": [
+        "machine learning",
+        "big data analytics",
+        "enterprise readiness",
+        "data science experience",
+        "collaboration"
+    ],
+    "801": [
+        "use",
+        "spark",
+        "streaming",
+        "ibm",
+        "watson"
+    ],
+    "802": [
+        "take",
+        "provisioning",
+        "mysql",
+        "database",
+        "compose"
+    ],
+    "803": [
+        "web app",
+        "user behavior",
+        "tracking",
+        "metrics",
+        "analysis"
+    ],
+    "804": [
+        "business",
+        "mongodb",
+        "nonprofit",
+        "full-stack solution",
+        "customer case study"
+    ],
+    "805": [
+        "machine learning",
+        "ibm watson",
+        "data science",
+        "ai",
+        "automation"
+    ],
+    "806": [
+        "video",
+        "collaborator",
+        "project",
+        "ibm",
+        "data science"
+    ],
+    "807": [
+        "big data",
+        "data science",
+        "machine learning",
+        "analytics",
+        "iot"
+    ],
+    "808": [
+        "- christopher quinones",
+        "- janusgraph",
+        "- graph database",
+        "- usage",
+        "- scylla"
+    ],
+    "809": [
+        "ibm",
+        "bluemix",
+        "data",
+        "machine learning",
+        "apache spark"
+    ],
+    "810": [
+        "node.js",
+        "environment variables",
+        "keeping secrets",
+        "api key",
+        "git commit"
+    ],
+    "811": [
+        "geodist",
+        "st_distance",
+        "redis",
+        "postgis",
+        "distance calculation"
+    ],
+    "812": [
+        "post",
+        "machine learning",
+        "python",
+        "exercise",
+        "coursera"
+    ],
+    "813": [
+        "stats",
+        "bots",
+        "generative adversarial networks (gans)",
+        "data science",
+        "applications"
+    ],
+    "814": [
+        "alexa skill",
+        "openwhisk",
+        "cloudant",
+        "serverless",
+        "ibm watson data lab"
+    ],
+    "815": [
+        "pycon",
+        "spark",
+        "machine learning",
+        "apache spark",
+        "data analytics"
+    ],
+    "816": [
+        "offline first",
+        "sxsw",
+        "web development",
+        "community organizing",
+        "open source"
+    ],
+    "817": [
+        "girl develop it",
+        "leadership summit",
+        "ibm cloud",
+        "diversity",
+        "inclusivity"
+    ],
+    "818": [
+        "databasebacked",
+        "microservices",
+        "senecajs",
+        "compose",
+        "javascript"
+    ],
+    "819": [
+        "importing",
+        "restoring",
+        "database",
+        "mongodb",
+        "admin"
+    ],
+    "820": [
+        "data",
+        "analytics",
+        "ibm",
+        "cloud-based",
+        "natural resources"
+    ],
+    "821": [
+        "data science",
+        "rstudio",
+        "ibm watson",
+        "machine learning",
+        "cloud environment"
+    ],
+    "822": [
+        "cloudant",
+        "nodejs",
+        "library",
+        "plugins",
+        "keepalive"
+    ],
+    "823": [
+        "nodered",
+        "flow",
+        "tool",
+        "internet of things",
+        "documentation"
+    ],
+    "824": [
+        "video",
+        "demo",
+        "bluemix",
+        "push notification",
+        "mobilefirst platform"
+    ],
+    "825": [
+        "fraud detection",
+        "class imbalance",
+        "minority oversampling",
+        "synthetic observations",
+        "churners"
+    ],
+    "826": [
+        "article",
+        "secure",
+        "restheart",
+        "api",
+        "authentication"
+    ],
+    "827": [
+        "video",
+        "data catalog",
+        "asset management",
+        "ibm",
+        "data organization"
+    ],
+    "828": [
+        "big data",
+        "data science",
+        "learning paths",
+        "courses",
+        "badges"
+    ],
+    "829": [
+        "data",
+        "salesforce",
+        "looker",
+        "ibm",
+        "cloud"
+    ],
+    "830": [
+        "elasticsearch",
+        "database",
+        "compose",
+        "getting started",
+        "tutorial"
+    ],
+    "831": [
+        "open_source",
+        "business_intelligence",
+        "use_case",
+        "dimensional_modeling",
+        "small_data"
+    ],
+    "832": [
+        "ibm",
+        "watson",
+        "web app",
+        "offline-first",
+        "voice\tinterconnect"
+    ],
+    "833": [
+        "machine learning",
+        "decision optimization",
+        "data input",
+        "prescriptive analytics",
+        "business goals"
+    ],
+    "834": [
+        "app",
+        "store",
+        "hope",
+        "indie",
+        "developers"
+    ],
+    "835": [
+        "apache spark",
+        "ibm analytics",
+        "scala notebook",
+        "sql queries",
+        "big data"
+    ],
+    "836": [
+        "data science",
+        "big data",
+        "courses",
+        "events",
+        "machine learning"
+    ],
+    "837": [
+        "joshua",
+        "postgresql",
+        "datalayer conference",
+        "pgconf us",
+        "speaker"
+    ],
+    "838": [
+        "etcd",
+        "database",
+        "distributed systems",
+        "configuration management",
+        "node.js"
+    ],
+    "839": [
+        "1. dashdb",
+        "2. cognos",
+        "3. business intelligence",
+        "4. visualization",
+        "5. configuration"
+    ],
+    "840": [
+        "cloudant",
+        "curl",
+        "alias",
+        "authentication",
+        "http requests"
+    ],
+    "841": [
+        "video",
+        "cloudant",
+        "documentation",
+        "support",
+        "learning center"
+    ],
+    "842": [
+        "pouchdb",
+        "sql",
+        "silverlining",
+        "database querying",
+        "json conversion"
+    ],
+    "843": [
+        "data science",
+        "statistics",
+        "books",
+        "learning",
+        "code"
+    ],
+    "844": [
+        "apache spark",
+        "cloudant database",
+        "ibm analytics",
+        "python notebook",
+        "sentiment analysis"
+    ],
+    "845": [
+        "mongodb",
+        "elasticsearch",
+        "database",
+        "search",
+        "performance"
+    ],
+    "846": [
+        "spark",
+        "sparksql",
+        "aggregation function",
+        "pearson correlation",
+        "apache"
+    ],
+    "847": [
+        "navigating",
+        "nosql",
+        "big_data",
+        "json_document",
+        "relational_database"
+    ],
+    "848": [
+        "gigi",
+        "database migration",
+        "compose",
+        "python programming language",
+        "postgresql"
+    ],
+    "849": [
+        "ibm, apache spark, rock paper scissors, data analytics, user experience"
+    ],
+    "850": [
+        "chrome extensions",
+        "pouchdb",
+        "web application",
+        "apache couchdb",
+        "syncing data"
+    ],
+    "851": [
+        "serverless",
+        "watson",
+        "chatbot",
+        "web development",
+        "ibm"
+    ],
+    "852": [
+        "php",
+        "rabbitmq",
+        "job queue",
+        "loosely coupled",
+        "scalability"
+    ],
+    "853": [
+        "watson",
+        "visual recognition",
+        "custom classifier",
+        "training",
+        "accuracy"
+    ],
+    "854": [
+        "- learn",
+        "- moving average",
+        "- calculation",
+        "- postgresql",
+        "- data analysis"
+    ],
+    "855": [
+        "python",
+        "jupyter notebooks",
+        "data science",
+        "anaconda",
+        "ibm data science experience"
+    ],
+    "856": [
+        "pouchdb",
+        "offlinefirst",
+        "web development",
+        "web worker",
+        "open source"
+    ],
+    "857": [
+        "markdown",
+        "knitr",
+        "pandoc",
+        "guide",
+        "customize."
+    ],
+    "858": [
+        "starcraft ii",
+        "data science",
+        "jupyter notebooks",
+        "data visualization",
+        "ibm experience"
+    ],
+    "859": [
+        "webhooks",
+        "scalable",
+        "queue",
+        "workers",
+        "rabbitmq"
+    ],
+    "860": [
+        "mapreduce",
+        "twophase",
+        "paradigm",
+        "data crunching",
+        "distributed system"
+    ],
+    "861": [
+        "- data analytics",
+        "- data lake",
+        "- metadata management",
+        "- governance policy",
+        "- ibm data catalog"
+    ],
+    "862": [
+        "time",
+        "series",
+        "analysis",
+        "brain signal data",
+        "event-related potential"
+    ],
+    "863": [
+        "new",
+        "mongodb",
+        "webinar",
+        "recording",
+        "learning"
+    ],
+    "864": [
+        "week",
+        "news",
+        "data science",
+        "big data",
+        "february"
+    ],
+    "865": [
+        "data visualization",
+        "open source",
+        "jupyter notebooks",
+        "ibm data science experience",
+        "traffic data"
+    ],
+    "866": [
+        "open_source",
+        "small_data",
+        "business_intelligence",
+        "etl",
+        "nodejs"
+    ],
+    "867": [
+        "web",
+        "linked data",
+        "jsonld",
+        "cloudant",
+        "database"
+    ],
+    "868": [
+        "tutorial",
+        "basic",
+        "loop",
+        "beginner",
+        "write"
+    ],
+    "869": [
+        "ibm",
+        "graph",
+        "client",
+        "library",
+        "nodejs"
+    ],
+    "870": [
+        "watson",
+        "visual recognition",
+        "custom model",
+        "multiple model",
+        "business application"
+    ],
+    "871": [
+        "overfitting",
+        "machine learning",
+        "prevention",
+        "detect",
+        "model accuracy"
+    ],
+    "872": [
+        "learn",
+        "analyze",
+        "precipitation",
+        "data",
+        "python notebook"
+    ],
+    "873": [
+        "- ibm",
+        "- dashdb",
+        "- database",
+        "- load",
+        "- desktop"
+    ],
+    "874": [
+        "postgresql",
+        "performance",
+        "addon",
+        "unlogged tables",
+        "replication"
+    ],
+    "875": [
+        "nips conference",
+        "artificial intelligence",
+        "machine learning",
+        "generative adversarial networks",
+        "unsupervised learning"
+    ],
+    "876": [
+        "time",
+        "statistical bias",
+        "analysis",
+        "presentation",
+        "types"
+    ],
+    "877": [
+        "watson",
+        "interactive experience",
+        "twilio",
+        "real-time",
+        "ibm bluemix"
+    ],
+    "878": [
+        "listening",
+        "data",
+        "science",
+        "podcasts",
+        "advancement"
+    ],
+    "879": [
+        "proxy",
+        "enable",
+        "ssl",
+        "high availability",
+        "database connection"
+    ],
+    "880": [
+        "machine learning",
+        "probabilistic graphical models",
+        "bayesian network",
+        "markov network",
+        "conditional independence statement"
+    ],
+    "881": [
+        "- data science",
+        "- weekly picks",
+        "- newsletter",
+        "- web links",
+        "- briefings"
+    ],
+    "882": [
+        "create",
+        "blog",
+        "entry",
+        "using",
+        "brunel"
+    ],
+    "883": [
+        "ibm bluemix",
+        "watson ai",
+        "sms service",
+        "postgresql",
+        "user interaction"
+    ],
+    "884": [
+        "machine learning",
+        "simpler approach",
+        "deep learning",
+        "algorithm",
+        "evaluating model"
+    ],
+    "885": [
+        "learn",
+        "apache",
+        "nifi",
+        "data",
+        "flowbased"
+    ],
+    "886": [
+        "watch",
+        "apply",
+        "association",
+        "rule",
+        "data"
+    ],
+    "887": [
+        "- lstm",
+        "- recurrent neural networks",
+        "- time series prediction",
+        "- memory",
+        "- state-of-the-art applications"
+    ],
+    "888": [
+        "graphql",
+        "multiple data sources",
+        "databases",
+        "rest",
+        "data combining"
+    ],
+    "889": [
+        "mobile app development",
+        "offline-first technology",
+        "cloudant backend",
+        "ios app creation",
+        "video tutorial"
+    ],
+    "890": [
+        "- php",
+        "- compose",
+        "- mysql",
+        "- bluemix",
+        "- blog post"
+    ],
+    "891": [
+        "ready",
+        "build",
+        "interactive",
+        "web apps",
+        "shiny cheat sheet"
+    ],
+    "892": [
+        "data scientists",
+        "data analysis",
+        "automation",
+        "data catalog",
+        "ibm"
+    ],
+    "893": [
+        "-use",
+        "-machine learning",
+        "-apache spark",
+        "-ibm analytics",
+        "-blumix"
+    ],
+    "894": [
+        "cloudant",
+        "database",
+        "geojson",
+        "mapping",
+        "querying"
+    ],
+    "895": [
+        "graph",
+        "database",
+        "ibm",
+        "cloud",
+        "schema"
+    ],
+    "896": [
+        "guide",
+        "convolutional layer",
+        "transposed convolutional layer",
+        "relationship",
+        "deep learning"
+    ],
+    "897": [
+        "cloud",
+        "analytics",
+        "visualization",
+        "d3",
+        "cloudant"
+    ],
+    "898": [
+        "neural network",
+        "language modeling",
+        "rnns",
+        "regularization technique",
+        "word embedding"
+    ],
+    "899": [
+        "tidyr",
+        "data",
+        "manipulate",
+        "consistent",
+        "convention"
+    ],
+    "900": [
+        "realtime",
+        "notification",
+        "service",
+        "scalability",
+        "web development"
+    ],
+    "901": [
+        "pouchdb",
+        "javascript",
+        "cloudant",
+        "database",
+        "syncing"
+    ],
+    "902": [
+        "open",
+        "crime",
+        "data",
+        "free",
+        "geospatial"
+    ],
+    "903": [
+        "machine_learning",
+        "boosting",
+        "regression",
+        "classification",
+        "algorithm"
+    ],
+    "904": [
+        "search",
+        "index",
+        "flexible query",
+        "document video",
+        "cloudant learning center"
+    ],
+    "905": [
+        "machine learning",
+        "random forest",
+        "algorithm",
+        "supervised learning",
+        "feature importance"
+    ],
+    "906": [
+        "flexible",
+        "tool",
+        "create",
+        "readable",
+        "analysis"
+    ],
+    "907": [
+        "apache spark",
+        "biginsights cloud",
+        "sentiment analysis",
+        "sql queries",
+        "ibm analytics"
+    ],
+    "908": [
+        "chatbots",
+        "ibm bluemix",
+        "data collection",
+        "artificial intelligence",
+        "user interaction"
+    ],
+    "909": [
+        "cloudant search, lucene, geographic search, index function, location data"
+    ],
+    "910": [
+        "- ibm cloud object storage",
+        "- python",
+        "- data science",
+        "- storage options",
+        "- access credentials"
+    ],
+    "911": [
+        "data science",
+        "predictive modeling",
+        "machine learning",
+        "baseball injuries",
+        "feature engineering"
+    ],
+    "912": [
+        "cloudant",
+        "search",
+        "full-text indexing",
+        "fti",
+        "query"
+    ],
+    "913": [
+        "dive",
+        "etcd",
+        "python",
+        "dynamic configuration",
+        "library"
+    ],
+    "914": [
+        "couchdiff",
+        "database comparison",
+        "command-line tool",
+        "apache couchdb",
+        "node.js"
+    ],
+    "915": [
+        "stripecom",
+        "data",
+        "warehouse",
+        "dashboard",
+        "ibm"
+    ],
+    "916": [
+        "cloudant",
+        "query",
+        "json",
+        "syntax",
+        "tutorial"
+    ],
+    "917": [
+        "ibm",
+        "cloudant",
+        "nosql",
+        "json",
+        "document store"
+    ],
+    "918": [
+        "1. podcasts",
+        "2. metadata",
+        "3. jupyter notebooks",
+        "4. watson natural language understanding",
+        "5. data engineering"
+    ],
+    "919": [
+        "cheat",
+        "sheet",
+        "watson",
+        "speech-to-text",
+        "quick reference"
+    ],
+    "920": [
+        "article",
+        "build",
+        "upon",
+        "last",
+        "discussion"
+    ],
+    "921": [
+        "compose",
+        "leftronic",
+        "metric",
+        "data visualization",
+        "realtime"
+    ],
+    "922": [
+        "compose",
+        "customer",
+        "interloop",
+        "ibm watson",
+        "forecasting platform"
+    ],
+    "923": [
+        "new",
+        "option",
+        "compose",
+        "database",
+        "bluemix"
+    ],
+    "924": [
+        "antonio",
+        "chavez",
+        "datalayer",
+        "conference",
+        "mongodb"
+    ],
+    "925": [
+        "video",
+        "spark sql",
+        "ibm data science experience",
+        "programming",
+        "apache spark"
+    ],
+    "926": [
+        "access",
+        "denied",
+        "useragent",
+        "automated",
+        "success"
+    ],
+    "927": [
+        "cloudant",
+        "restful api",
+        "create",
+        "read",
+        "update"
+    ],
+    "928": [
+        "- anomaly detection",
+        "- time series",
+        "- algorithms",
+        "- machine learning",
+        "- statistical analysis"
+    ],
+    "929": [
+        "announcing",
+        "tidyr",
+        "make",
+        "easy",
+        "tidy"
+    ],
+    "930": [
+        "homepage",
+        "data science",
+        "git",
+        "version control",
+        "collaboration"
+    ],
+    "931": [
+        "serverless",
+        "conference",
+        "technology",
+        "amazon alexa",
+        "developer advocacy"
+    ],
+    "932": [
+        "using",
+        "pseudolabeling",
+        "semisupervised learning",
+        "machine learning",
+        "scikit-learn"
+    ],
+    "933": [
+        "data science",
+        "time series",
+        "workflow",
+        "reproducibility",
+        "project organization"
+    ],
+    "934": [
+        "python notebook",
+        "cloudant data",
+        "apache spark",
+        "data analysis",
+        "ibm analytics"
+    ],
+    "935": [
+        "data science",
+        "data preparation",
+        "sparklingdata library",
+        "data cleaning",
+        "metadata"
+    ],
+    "936": [
+        "structured",
+        "unstructured",
+        "repetitive",
+        "nonrepetitive",
+        "data"
+    ],
+    "937": [
+        "apis",
+        "rate limiting",
+        "cloudant database",
+        "queueing",
+        "developer tools"
+    ],
+    "938": [
+        "python",
+        "postgresql",
+        "psycopg",
+        "mogrify",
+        "sql formatting"
+    ],
+    "939": [
+        "deep learning",
+        "neural network",
+        "computational graphs",
+        "python",
+        "mathematical algorithms"
+    ],
+    "940": [
+        "rstudio",
+        "data tables (dt)",
+        "cran release",
+        "shiny apps",
+        "table modification"
+    ],
+    "941": [
+        "rstudio",
+        "feather",
+        "apache arrow",
+        "data frames",
+        "python"
+    ],
+    "942": [
+        "1. apache spark",
+        "2. open source",
+        "3. spark sql",
+        "4. big data",
+        "5. community projects"
+    ],
+    "943": [
+        "facebook",
+        "data analysis",
+        "watson",
+        "jupyter notebook",
+        "hidden insight"
+    ],
+    "944": [
+        "watch",
+        "extract",
+        "export",
+        "dashdb",
+        "data"
+    ],
+    "945": [
+        "readme",
+        "founder",
+        "developer documentation",
+        "data solution",
+        "customer satisfaction"
+    ],
+    "946": [
+        "compose",
+        "user",
+        "database",
+        "scaling",
+        "redis"
+    ],
+    "947": [
+        "selfdriving",
+        "car",
+        "big data",
+        "machine learning",
+        "future"
+    ],
+    "948": [
+        "systemml",
+        "machine learning",
+        "apache spark",
+        "data scientist",
+        "community projects"
+    ],
+    "949": [
+        "apache spark",
+        "sql analyzer",
+        "resolved attributes",
+        "logical plan",
+        "code contributions"
+    ],
+    "950": [
+        "developer",
+        "experience",
+        "apis",
+        "integration",
+        "open source"
+    ],
+    "951": [
+        "rstudio",
+        "shiny",
+        "interactive plots",
+        "ggplot2",
+        "jsonlite"
+    ],
+    "952": [
+        "neural",
+        "network",
+        "simulates",
+        "moth",
+        "odor"
+    ],
+    "953": [
+        "connector",
+        "data",
+        "load",
+        "cloud-based",
+        "cloudant"
+    ],
+    "954": [
+        "open",
+        "data",
+        "repository",
+        "insight",
+        "transparency"
+    ],
+    "955": [
+        "leaflet",
+        "interactive",
+        "web",
+        "maps",
+        "packages"
+    ],
+    "956": [
+        "analyze",
+        "data",
+        "ibm",
+        "biginsights cloud",
+        "text analytics"
+    ],
+    "957": [
+        "data science",
+        "visualization",
+        "jupyter notebooks",
+        "ibm",
+        "open source"
+    ],
+    "958": [
+        "- data science experience (dsx)",
+        "- ibm watson data platform",
+        "- github data",
+        "- python notebooks",
+        "- ibm data science experience (dsx) use case"
+    ],
+    "959": [
+        "post",
+        "discuss",
+        "useful",
+        "statistical method",
+        "estimating"
+    ],
+    "960": [
+        "interview",
+        "leveraging",
+        "technology",
+        "d3js",
+        "javascript"
+    ],
+    "961": [
+        "spark",
+        "testing",
+        "big data",
+        "apache",
+        "contributions"
+    ],
+    "962": [
+        "data visualization",
+        "bugs",
+        "time series chart",
+        "performance indicator",
+        "metric"
+    ],
+    "963": [
+        "automatic",
+        "backup",
+        "retrieval",
+        "compose api",
+        "nodejs"
+    ],
+    "964": [
+        "ibm",
+        "offlinefirst",
+        "camp",
+        "community",
+        "ux"
+    ],
+    "965": [
+        "data visualization",
+        "charts",
+        "tools",
+        "bubble charts",
+        "tree maps"
+    ],
+    "966": [
+        "lucero",
+        "del alba",
+        "jsonb data type",
+        "postgresql",
+        "performance"
+    ],
+    "967": [
+        "- machine learning",
+        "- data science",
+        "- analytics",
+        "- python",
+        "- mathematical optimization"
+    ],
+    "968": [
+        "rstudio",
+        "shiny",
+        "packages",
+        "html templates",
+        "shiny modules"
+    ],
+    "969": [
+        "flight prediction",
+        "ibm watson",
+        "data visualization",
+        "machine learning",
+        "open source"
+    ],
+    "970": [
+        "database",
+        "security",
+        "ibm bluemix",
+        "restheart",
+        "cloud deployment"
+    ],
+    "971": [
+        "cloudant",
+        "javascript",
+        "mapreduce",
+        "common pitfalls",
+        "automated testing"
+    ],
+    "972": [
+        "video",
+        "show",
+        "create",
+        "project",
+        "ibm"
+    ],
+    "973": [
+        "gradient",
+        "recommender systems",
+        "data science",
+        "machine learning",
+        "collaborative filtering"
+    ],
+    "974": [
+        "text analytics",
+        "machine learning",
+        "big data",
+        "data science",
+        "artificial intelligence"
+    ],
+    "975": [
+        "data",
+        "scientist",
+        "day-to-day",
+        "process",
+        "data science"
+    ],
+    "976": [
+        "nodejs",
+        "tool",
+        "bulk import",
+        "json data",
+        "cloudant/couchdb"
+    ],
+    "977": [
+        "genomics",
+        "computation",
+        "apache spark",
+        "data processing",
+        "library"
+    ],
+    "978": [
+        "offline first",
+        "ibm watson",
+        "data",
+        "lab",
+        "session recap"
+    ],
+    "979": [
+        "meteorjs",
+        "backend development",
+        "compose mongodb",
+        "order management",
+        "tradedepot"
+    ],
+    "980": [
+        "logshare",
+        "real-time streaming",
+        "command-line tool",
+        "websockets",
+        "cloudant"
+    ],
+    "981": [
+        "tfidf, ngrams, string matching, sparse matrix multiplication, cosine similarity"
+    ],
+    "982": [
+        "video",
+        "cloudant",
+        "api tools",
+        "database",
+        "tutorial"
+    ],
+    "983": [
+        "redis",
+        "go",
+        "chat application",
+        "publish/subscribe system",
+        "key-value storage"
+    ],
+    "984": [
+        "data processing",
+        "inequality",
+        "machine learning",
+        "causality",
+        "data science"
+    ],
+    "985": [
+        "data engineering",
+        "day in the life",
+        "team responsibilities",
+        "infrastructure operation",
+        "data science"
+    ],
+    "986": [
+        "book",
+        "teach",
+        "data science",
+        "practicum skill",
+        "best practice"
+    ],
+    "987": [
+        "ibm",
+        "watson",
+        "data",
+        "notification service",
+        "multiplayer game"
+    ],
+    "988": [
+        "- bluemix",
+        "- cloud",
+        "- secure gateway",
+        "- relational database",
+        "- app development"
+    ],
+    "989": [
+        "developed",
+        "redis",
+        "application",
+        "local",
+        "single"
+    ],
+    "990": [
+        "courses",
+        "learning paths",
+        "big data",
+        "machine learning",
+        "data science"
+    ],
+    "991": [
+        "new",
+        "compose",
+        "api",
+        "streamlining",
+        "support"
+    ],
+    "992": [
+        "cloudant",
+        "mobile first",
+        "ios app",
+        "ibm bluemix",
+        "authentication"
+    ],
+    "993": [
+        "apache spark, spark sql, configuration, dataframes, datasets"
+    ],
+    "994": [
+        "elasticsearch",
+        "query string",
+        "full text search",
+        "functionality",
+        "special queries"
+    ],
+    "995": [
+        "geospatial",
+        "data visualization",
+        "weather data",
+        "open source",
+        "notebooks"
+    ],
+    "996": [
+        "social network analytics",
+        "innovative applications",
+        "practical use cases",
+        "going beyond facebook and twitter",
+        "use cases for social network analytics on platforms beyond facebook and twitter"
+    ],
+    "997": [
+        "apache_spark",
+        "social_medium",
+        "sentiment_analysis",
+        "ibm_cloud",
+        "data_scientist"
+    ],
+    "998": [
+        "look",
+        "raster data",
+        "shapefiles",
+        "superimposing",
+        "georeferenced image"
+    ],
+    "999": [
+        "dashdb",
+        "cloud data warehouse",
+        "loading data",
+        "ibm puredata system analytics",
+        "compatibility evaluation"
+    ],
+    "1000": [
+        "recommender systems",
+        "algorithm",
+        "collaborative filtering",
+        "content-based filtering",
+        "hybrid approach"
+    ],
+    "1001": [
+        "use",
+        "ibm",
+        "analytics",
+        "apache",
+        "spark"
+    ],
+    "1002": [
+        "data",
+        "browser",
+        "nodetooljmx",
+        "access",
+        "scylladb"
+    ],
+    "1003": [
+        "electron",
+        "web apps",
+        "native",
+        "installation",
+        "npm module"
+    ],
+    "1004": [
+        "deep learning",
+        "job requirements",
+        "skill acquisition",
+        "beginner-friendly",
+        "open position"
+    ],
+    "1005": [
+        "twitter",
+        "sentiment analysis",
+        "spark streaming",
+        "watson tone analyzer",
+        "real-time analytics"
+    ],
+    "1006": [
+        "data science",
+        "python",
+        "machine learning algorithms",
+        "supervised learning",
+        "logistic regression"
+    ],
+    "1007": [
+        "bluemixhelpersso",
+        "nodejs",
+        "library",
+        "authentication",
+        "bluemix"
+    ],
+    "1008": [
+        "deep learning",
+        "neural networks",
+        "tutorial",
+        "video",
+        "data science"
+    ],
+    "1009": [
+        "video",
+        "inappropriate content",
+        "playlist",
+        "opinion",
+        "cloudant"
+    ],
+    "1010": [
+        "cloudant",
+        "data management",
+        "large datasets",
+        "database technology",
+        "cern project"
+    ],
+    "1011": [
+        "compose",
+        "user",
+        "addon",
+        "kibana",
+        "deployment"
+    ],
+    "1012": [
+        "geospatial",
+        "index",
+        "querying",
+        "cloudant",
+        "database"
+    ],
+    "1013": [
+        "serverless",
+        "redis",
+        "open source",
+        "ibm",
+        "alexa"
+    ],
+    "1014": [
+        "data science",
+        "online courses",
+        "programming",
+        "statistics",
+        "learning resources"
+    ],
+    "1015": [
+        "ui",
+        "building",
+        "color mapping",
+        "enhancements",
+        "data"
+    ],
+    "1016": [
+        "let",
+        "clear",
+        "essential",
+        "toolkit",
+        "execute"
+    ],
+    "1017": [
+        "introduction",
+        "pandas",
+        "quick start guide",
+        "data analysis library",
+        "python"
+    ],
+    "1018": [
+        "exact",
+        "skill",
+        "company",
+        "recruiting",
+        "data scientist"
+    ],
+    "1019": [
+        "tutorial",
+        "migrating",
+        "json",
+        "data",
+        "ibm cloudant"
+    ],
+    "1020": [
+        "take",
+        "look",
+        "marketing automation",
+        "compose",
+        "microservices"
+    ],
+    "1021": [
+        "varun",
+        "singh",
+        "ibm watson",
+        "mongodb",
+        "redis"
+    ],
+    "1022": [
+        "video",
+        "data catalog",
+        "watson",
+        "platform",
+        "administer"
+    ],
+    "1023": [
+        "latest",
+        "version",
+        "transporter",
+        "open sourced tool",
+        "data manipulation"
+    ],
+    "1024": [
+        "audio superresolution",
+        "deep learning",
+        "neural network",
+        "open source",
+        "machine learning"
+    ],
+    "1025": [
+        "data science",
+        "data tidying",
+        "data cleansing",
+        "jupyter notebook",
+        "bluemix object storage"
+    ],
+    "1026": [
+        "bluemix",
+        "cloud-based development",
+        "node.js",
+        "jade",
+        "game development"
+    ],
+    "1027": [
+        "geospatial",
+        "queries",
+        "redis",
+        "performance",
+        "data"
+    ],
+    "1028": [
+        "sqlite",
+        "database",
+        "python",
+        "pandas",
+        "workflow"
+    ],
+    "1029": [
+        "adron",
+        "hall",
+        "immutable",
+        "infrastructure",
+        "datalayer conference"
+    ],
+    "1030": [
+        "nested models",
+        "impact coding",
+        "count encoding",
+        "laplace noising",
+        "data science"
+    ],
+    "1031": [
+        "work",
+        "licensed",
+        "creative commons",
+        "book",
+        "elasticsearch"
+    ],
+    "1032": [
+        "see",
+        "quick",
+        "easy",
+        "set",
+        "dashdb"
+    ],
+    "1033": [
+        "relational",
+        "database",
+        "nosql",
+        "scaling",
+        "persistence"
+    ],
+    "1034": [
+        "data warehouse",
+        "cloud services",
+        "operational data store",
+        "etl tool",
+        "ibm cloud data services"
+    ],
+    "1035": [
+        "machine learning",
+        "ibm",
+        "enterprise",
+        "data science",
+        "big data"
+    ],
+    "1036": [
+        "mongodb",
+        "aggregation",
+        "pipeline",
+        "duplicate documents",
+        "grouping"
+    ],
+    "1037": [
+        "couchdb",
+        "database",
+        "api",
+        "bulk writes",
+        "cluster"
+    ],
+    "1038": [
+        "overplotting",
+        "scatterplots",
+        "visualization",
+        "big data",
+        "data reduction"
+    ],
+    "1039": [
+        "pixiedust",
+        "custom visualization",
+        "jupyter notebooks",
+        "data science",
+        "ibm watson"
+    ],
+    "1040": [
+        "mongo shell",
+        "javascript engine",
+        "querying",
+        "data migration",
+        "reusable functions"
+    ],
+    "1041": [
+        "geodata",
+        "python",
+        "mapping",
+        "3d",
+        "packages"
+    ],
+    "1042": [
+        "data science",
+        "amazon s3",
+        "python",
+        "spark",
+        "ibm watson data platform"
+    ],
+    "1043": [
+        "streaming_analytics",
+        "ibm cloud",
+        "internet of things",
+        "streams designer",
+        "data catalog"
+    ],
+    "1044": [
+        "continuing",
+        "previous",
+        "work",
+        "exploring",
+        "arlington"
+    ],
+    "1045": [
+        "lua",
+        "compact",
+        "embedded",
+        "redis",
+        "scripting"
+    ],
+    "1046": [
+        "pouchdbfind",
+        "new api syntax",
+        "simpler way to query pouchdb",
+        "adhoc querying",
+        "mongodbstyle query language"
+    ],
+    "1047": [
+        "compare",
+        "discriminative",
+        "generative",
+        "learning",
+        "classifier"
+    ],
+    "1048": [
+        "order",
+        "demystify",
+        "magic",
+        "machine learning algorithm",
+        "implementation"
+    ],
+    "1049": [
+        "learn",
+        "use",
+        "ibm dashdb",
+        "data store",
+        "apache spark"
+    ],
+    "1050": [
+        "jupyter notebooks",
+        "data science",
+        "python",
+        "scala",
+        "ibm watson data platform"
+    ]
+}
